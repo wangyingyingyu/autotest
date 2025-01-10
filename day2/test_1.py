@@ -1,4 +1,4 @@
-
+""""
 # 统计查找替换类
 length = len("Hello")
 print(length)
@@ -256,12 +256,80 @@ print(f'删除"Python Programming"书籍:\n {books}')
 books.sort()
 print(f'对书籍列表按字母顺序排序\n {books}')
 
+# 保存结果的变量
+result = 1
+# 循环控制变量
+n = 2
+# 开始循环
+while n <= 10:
+    # 计算乘积
+    result *= n
+    # 改变循环变量向结束条件趋近
+    n += 1
+
+# 输出结果
+print("1~10的乘积为：", result)
+"""
 
 
 
 
+result = ""
+data = input("Num:")
+
+if data == 0:
+    print(result = 0)
+
+if data.isdigit():
+    data = int(data)
+    while data != 0:
+        tmp = data % 2
+        data = data // 2
+        result = str(tmp) + result
+else:
+    print('输入的不是数字')
+print(f'{data}转换的二进制数字为{result}')
 
 
+s = [9, 7, 8, 3, 2, 1, 55, 6]
+
+s_count = 0
+s_max = s[0]
+s_min = s[0]
+s_sum = s[0]
+s_ave = s[0]
+
+tmp = s[::-1]
+while tmp:  # tmp非空就循环继续
+    i = tmp.pop()  # 不断减少列表元素
+    s_count = s_count + 1
+    s_sum = s_sum + i
+    if i > s_max:
+        s_max = i
+    if i < s_min:
+        s_min = i
+s_ave = s_sum / s_count
+
+print("count:", s_count)
+print("sum:", s_sum)
+print("max:", s_max)
+print("ave:", s_ave)
+
+# 确定开始和结束范围
+nums = list(range(1, 10))
+print(nums)
+
+# 使用默认开始值
+nums = list(range(10))
+print(nums)
+
+# 确定范围和步长
+nums = list(range(1, 10, 2))
+print(nums)
+
+# 使用负步长
+nums = list(range(10, 1, -3))
+print(nums)
 
 
 
