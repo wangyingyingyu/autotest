@@ -7,7 +7,6 @@ def  Fibonacci(n):
     else:
         return Fibonacci(n-1) + Fibonacci(n-2)
 
-
 n = int(input("输入一个正数"))
 
 Fibonacci(n)
@@ -58,8 +57,8 @@ def Fibonacci(n):
 
 n = int(input("输入一个正整数："))
 Fibonacci(n)
-# 用while 循环逐个打印出序列的值  0、1、1、2、3、5、8、13、21、34
-def Fibnacci1():
+
+# 用while 循环逐个打印出序列的值  0、1、1、2、3、5、8、13、21
 
 
 

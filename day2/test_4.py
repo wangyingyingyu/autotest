@@ -200,15 +200,6 @@ def is_prime(n):
             return False
     return True
 
-# 输出结果
-if is_prime(num):
-    print(f"{num} 是素数")
-else:
-    print(f"{num} 不是素数")
-
-        if n % i == 0:
-            return False
-    return True
 
 # 输出结果
 if is_prime(num):
