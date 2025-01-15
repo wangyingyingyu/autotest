@@ -39,7 +39,7 @@ print(g3.shopping_car())
 # c1 = BuyCar()
 c1 = BuyCar()
 print(c1.add_good(g1))
-"""
+
 
 class Goods:
     def __init__(self, name, price):
@@ -50,7 +50,7 @@ class Goods:
         return f'商品名称为{self.name}, 商品价格为{self.price}'
 
     def add_to_cart(self, cart):
-        """将商品添加到购物车"""
+        #将商品添加到购物车
         cart.add_good(self)
 
 
@@ -59,11 +59,11 @@ class BuyCar:
         self.goods_list = []
 
     def add_good(self, goods):
-        """将商品添加到购物车列表中"""
+        #将商品添加到购物车列表中
         self.goods_list.append(goods)
 
     def all_goods(self):
-        """显示购物车中所有商品"""
+        #显示购物车中所有商品
         for g in self.goods_list:
             print(g)
 
@@ -84,14 +84,52 @@ g3.add_to_cart(c1)
 # 显示购物车中的所有商品
 print("购物车中的商品：")
 c1.all_goods()
+"""
 
 
 
+class Product:
+    def __init__(self, name, price):
+        self.name = name
+        self.price = price
+
+    def __str__(self):
+        return f"Product: {self.name}, Price: {self.price}"
+
+    def add_car(self, cart):
+        cart.add_product(self)
 
 
+class ShoppingCart:
+    def __init__(self):
+        self.products = []
+
+    def add_product(self, product):
+        self.products.append(product)
+
+    def show_products(self):
+        for product in self.products:
+            print(product)
 
 
+if __name__ == '__main__':
 
+    # 创建商品对象
+    product1 = Product("Apple", 5.0)
+    product2 = Product("Banana", 3.0)
+    product3 = Product("Orange", 4.0)
+
+    # 创建购物车对象
+    cart = ShoppingCart()
+
+    # 添加商品到购物车
+    product1.add_car(cart)
+    product2.add_car(cart)
+    product3.add_car(cart)
+
+    # 显示购物车中的商品信息
+    print("Shopping Cart:")
+    cart.show_products()
 
 
 

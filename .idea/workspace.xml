@@ -5,26 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c8c1f4d-5fa5-466b-b6da-e6d4bb9a0920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/ecommerce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/home_furniture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/fifth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/fourth.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work/fourth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/children_father.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/course.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/dog_cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/employee_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/encapsulation_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/payment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/encapsulation/polymorphic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/hero_fight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/running_weight_loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inherit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inherit/father_chirldren.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_day3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_day3/employee_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_day3/library_manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_day3/play_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/test_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/Fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/test_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/test_07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/test_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/test_4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/third.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work/third.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work/first.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_work/day_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work/second.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/day6/shopping.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,31 +54,59 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Fibonacci (1).executor": "Run",
+    "Python.area.executor": "Run",
     "Python.binary_search.executor": "Run",
     "Python.bubble_sort.executor": "Debug",
+    "Python.children_father.executor": "Run",
     "Python.class_demo.executor": "Run",
     "Python.computer.executor": "Run",
+    "Python.course.executor": "Run",
+    "Python.dog_cat.executor": "Run",
     "Python.ecommerce.executor": "Run",
+    "Python.employee_management.executor": "Run",
+    "Python.employee_salary.executor": "Run",
+    "Python.encapsulation_1.executor": "Run",
+    "Python.father_chirldren.executor": "Run",
     "Python.fifth.executor": "Run",
     "Python.fourth.executor": "Run",
+    "Python.hero_fight.executor": "Run",
     "Python.home_furniture.executor": "Run",
     "Python.library.executor": "Run",
+    "Python.library_manage.executor": "Run",
+    "Python.payment.executor": "Run",
+    "Python.person.executor": "Run",
+    "Python.play_game.executor": "Run",
+    "Python.polymorphic.executor": "Run",
+    "Python.running_weight_loss.executor": "Run",
     "Python.select_sort.executor": "Run",
     "Python.shopping (1).executor": "Run",
+    "Python.shopping.executor": "Debug",
     "Python.test.executor": "Run",
     "Python.test_05.executor": "Run",
     "Python.test_07.executor": "Run",
+    "Python.variableType.executor": "Run",
+    "Python.zoo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/git-pycharm/python_learn",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.ecommerce">
-    <configuration name="computer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git-pycharm\python_learn\home_work" />
+      <recent name="D:\git-pycharm\python_learn\encapsulation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.hero_fight">
+    <configuration name="father_chirldren" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inherit" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day6/computer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inherit/father_chirldren.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ecommerce" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hero_fight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day6/ecommerce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work/hero_fight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="running_weight_loss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,33 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day6/library.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="shopping (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day6/shopping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work/running_weight_loss.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,6 +194,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work/zoo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -203,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ecommerce" />
+        <item itemvalue="Python.hero_fight" />
+        <item itemvalue="Python.zoo" />
+        <item itemvalue="Python.running_weight_loss" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.library" />
-        <item itemvalue="Python.computer" />
-        <item itemvalue="Python.shopping (1)" />
+        <item itemvalue="Python.father_chirldren" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +257,24 @@
       <option name="presentableId" value="Default" />
       <updated>1736472947454</updated>
       <workItem from="1736508680019" duration="11000" />
+      <workItem from="1736816690904" duration="27063000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_learn$course.coverage" NAME="course Coverage Results" MODIFIED="1736835873646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/encapsulation" />
+    <SUITE FILE_PATH="coverage/python_learn$children_father.coverage" NAME="children_father Coverage Results" MODIFIED="1736841091671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
+    <SUITE FILE_PATH="coverage/python_learn$person.coverage" NAME="person Coverage Results" MODIFIED="1736824008608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/encapsulation" />
+    <SUITE FILE_PATH="coverage/python_learn$payment.coverage" NAME="payment Coverage Results" MODIFIED="1736848469190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/encapsulation" />
+    <SUITE FILE_PATH="coverage/python_learn$dog_cat.coverage" NAME="dog_cat Coverage Results" MODIFIED="1736840270958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
+    <SUITE FILE_PATH="coverage/python_learn$variableType.coverage" NAME="variableType Coverage Results" MODIFIED="1736817572115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bilibili" />
+    <SUITE FILE_PATH="coverage/python_learn$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1736836315464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
+    <SUITE FILE_PATH="coverage/python_learn$encapsulation_1.coverage" NAME="encapsulation_1 Coverage Results" MODIFIED="1736837286265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/encapsulation" />
+    <SUITE FILE_PATH="coverage/python_learn$polymorphic.coverage" NAME="polymorphic Coverage Results" MODIFIED="1736846764618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
+    <SUITE FILE_PATH="coverage/python_learn$employee_management.coverage" NAME="employee_management Coverage Results" MODIFIED="1736842996994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day6" />
+    <SUITE FILE_PATH="coverage/python_learn$area.coverage" NAME="area Coverage Results" MODIFIED="1736847473075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/encapsulation" />
   </component>
 </project>
