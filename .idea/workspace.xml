@@ -5,28 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c8c1f4d-5fa5-466b-b6da-e6d4bb9a0920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/encapsulation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/children_father.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/course.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/dog_cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/employee_management.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/encapsulation_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/payment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/encapsulation/polymorphic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/hero_fight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/running_weight_loss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/zoo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inherit/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inherit/father_chirldren.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_day3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_day3/employee_salary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_day3/library_manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_day3/play_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python_learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bilibili/test_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/online_course.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_day4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_day4/course_manage_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_day4/online_meal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day6/shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/day6/shopping.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +46,8 @@
     "Python.class_demo.executor": "Run",
     "Python.computer.executor": "Run",
     "Python.course.executor": "Run",
+    "Python.course_manage.executor": "Run",
+    "Python.course_manage_1.executor": "Run",
     "Python.dog_cat.executor": "Run",
     "Python.ecommerce.executor": "Run",
     "Python.employee_management.executor": "Run",
@@ -73,6 +60,7 @@
     "Python.home_furniture.executor": "Run",
     "Python.library.executor": "Run",
     "Python.library_manage.executor": "Run",
+    "Python.online_meal (1).executor": "Run",
     "Python.payment.executor": "Run",
     "Python.person.executor": "Run",
     "Python.play_game.executor": "Run",
@@ -84,10 +72,12 @@
     "Python.test.executor": "Run",
     "Python.test_05.executor": "Run",
     "Python.test_07.executor": "Run",
+    "Python.test_example.executor": "Run",
     "Python.variableType.executor": "Run",
     "Python.zoo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/git-pycharm/python_learn",
     "node.js.detected.package.eslint": "true",
@@ -105,8 +95,8 @@
       <recent name="D:\git-pycharm\python_learn\encapsulation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hero_fight">
-    <configuration name="father_chirldren" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test_example">
+    <configuration name="course_manage_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inherit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3_day4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inherit/father_chirldren.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3_day4/course_manage_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="running_weight_loss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="online_meal (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3_day4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work/running_weight_loss.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3_day4/online_meal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="online_meal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3_day4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day2/test.py" />
+      <option name="SCRIPT_NAME" value="D:\git-pycharm\python_learn\week3_day4\online_meal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -203,11 +193,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bilibili" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work/zoo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bilibili/test_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_example" />
+        <item itemvalue="Python.online_meal (1)" />
+        <item itemvalue="Python.course_manage_1" />
+        <item itemvalue="Python.online_meal" />
         <item itemvalue="Python.hero_fight" />
-        <item itemvalue="Python.zoo" />
-        <item itemvalue="Python.running_weight_loss" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.father_chirldren" />
       </list>
     </recent_temporary>
   </component>
