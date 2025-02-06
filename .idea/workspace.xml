@@ -5,13 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c8c1f4d-5fa5-466b-b6da-e6d4bb9a0920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/python_learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bilibili/test_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/online_course.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_day4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_day4/course_manage_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3_day4/online_meal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/binary_rearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/r_manmgement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/rearch_different.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/select_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/seven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/holiday/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/holiday/work_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/holiday/work_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/holiday/work_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/holiday/work_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/holiday/work_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/holiday/work_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/holiday/work_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/holiday/work_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work/hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/day_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_for_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_goods_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_group_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_library_manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_log_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day2/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day2/inventory_manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day2/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day2/open_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day2/orderlines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work/hero_fight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work/online_course.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work/online_course.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +69,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in hero.py.executor": "Run",
+    "Python tests.Python tests in test_hero.py.executor": "Run",
     "Python.Fibonacci (1).executor": "Run",
     "Python.area.executor": "Run",
+    "Python.binary_rearch.executor": "Run",
     "Python.binary_search.executor": "Run",
-    "Python.bubble_sort.executor": "Debug",
+    "Python.bubble_sort.executor": "Run",
     "Python.children_father.executor": "Run",
     "Python.class_demo.executor": "Run",
     "Python.computer.executor": "Run",
     "Python.course.executor": "Run",
     "Python.course_manage.executor": "Run",
     "Python.course_manage_1.executor": "Run",
+    "Python.day_1.executor": "Debug",
+    "Python.day_1_copy.executor": "Run",
+    "Python.day_1_dict.executor": "Run",
+    "Python.day_1_for_in.executor": "Run",
+    "Python.day_1_goods_info.executor": "Run",
+    "Python.day_1_group_score.executor": "Run",
+    "Python.day_1_kwargs.executor": "Run",
+    "Python.day_1_library_manage.executor": "Run",
+    "Python.day_1_log_in.executor": "Run",
+    "Python.day_1_time.executor": "Run",
+    "Python.debug.executor": "Debug",
     "Python.dog_cat.executor": "Run",
     "Python.ecommerce.executor": "Run",
     "Python.employee_management.executor": "Run",
@@ -56,15 +101,21 @@
     "Python.father_chirldren.executor": "Run",
     "Python.fifth.executor": "Run",
     "Python.fourth.executor": "Run",
+    "Python.hero.executor": "Run",
     "Python.hero_fight.executor": "Run",
     "Python.home_furniture.executor": "Run",
     "Python.library.executor": "Run",
     "Python.library_manage.executor": "Run",
+    "Python.online_course.executor": "Run",
     "Python.online_meal (1).executor": "Run",
+    "Python.open_dir.executor": "Run",
+    "Python.orderlines.executor": "Run",
     "Python.payment.executor": "Run",
     "Python.person.executor": "Run",
     "Python.play_game.executor": "Run",
     "Python.polymorphic.executor": "Run",
+    "Python.r_manmgement.executor": "Run",
+    "Python.rearch_different.executor": "Run",
     "Python.running_weight_loss.executor": "Run",
     "Python.select_sort.executor": "Run",
     "Python.shopping (1).executor": "Run",
@@ -74,6 +125,12 @@
     "Python.test_07.executor": "Run",
     "Python.test_example.executor": "Run",
     "Python.variableType.executor": "Run",
+    "Python.work_01.executor": "Run",
+    "Python.work_02.executor": "Run",
+    "Python.work_03.executor": "Run",
+    "Python.work_04.executor": "Run",
+    "Python.work_05.executor": "Run",
+    "Python.work_08.executor": "Run",
     "Python.zoo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -95,8 +152,8 @@
       <recent name="D:\git-pycharm\python_learn\encapsulation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_example">
-    <configuration name="course_manage_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.orderlines">
+    <configuration name="day_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3_day4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3_day4/course_manage_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day1/day_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +175,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hero_fight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day_1_goods_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/home_work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work/hero_fight.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/day_1_goods_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="online_meal (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="debug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +206,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3_day4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3_day4/online_meal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day2/debug.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="online_meal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="open_dir" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,11 +228,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3_day4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\git-pycharm\python_learn\week3_day4\online_meal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day2/open_dir.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="orderlines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bilibili" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bilibili/test_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day2/orderlines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_example" />
-        <item itemvalue="Python.online_meal (1)" />
-        <item itemvalue="Python.course_manage_1" />
-        <item itemvalue="Python.online_meal" />
-        <item itemvalue="Python.hero_fight" />
+        <item itemvalue="Python.orderlines" />
+        <item itemvalue="Python.open_dir" />
+        <item itemvalue="Python.day_1" />
+        <item itemvalue="Python.debug" />
+        <item itemvalue="Python.day_1_goods_info" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +310,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_learn$course.coverage" NAME="course Coverage Results" MODIFIED="1736835873646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/encapsulation" />
