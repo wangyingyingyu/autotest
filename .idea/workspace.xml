@@ -5,44 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c8c1f4d-5fa5-466b-b6da-e6d4bb9a0920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exam/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/binary_rearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/bubble_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/r_manmgement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/rearch_different.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/select_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam/seven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/holiday/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/holiday/work_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/holiday/work_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/holiday/work_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/holiday/work_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/holiday/work_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/holiday/work_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/holiday/work_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/holiday/work_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home_work/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/day_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_for_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_goods_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_group_score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_library_manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_log_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/day_1_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day2/debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day2/inventory_manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day2/lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day2/open_dir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day2/orderlines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order_manage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order_manage/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order_manage/controller/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order_manage/controller/order_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order_manage/controller/user_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order_manage/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order_manage/model/order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order_manage/model/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order_manage/view/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/inventory_manage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/inventory_manage/log_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/inventory_manage/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/inventory_manage/order_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/inventory_manage/save_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/json_use.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/pyproject_toml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/good_inventory/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/good_inventory/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/good_inventory/file_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/good_inventory/inventory_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/good_inventory/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/pytest_assert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learn.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_work/hero_fight.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_work/online_course.py" beforeDir="false" afterPath="$PROJECT_DIR$/home_work/online_course.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilibili/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilibili/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/binary_rearch.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/bubble_sort.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/r_manmgement.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/r_manmgement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/r_manmgement.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/rearch_different (2).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/rearch_different.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/select_sort (2).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/select_sort.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/seven.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work/hero.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home_work/online_course.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_day2/inventory_manage.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +72,9 @@
   "keyToString": {
     "Python tests.Python tests in hero.py.executor": "Run",
     "Python tests.Python tests in test_hero.py.executor": "Run",
+    "Python tests.pytest for pytest_assert.test_add.executor": "Run",
+    "Python tests.pytest for pytest_assert.test_assert.executor": "Run",
+    "Python.ClosuresDecorators.executor": "Run",
     "Python.Fibonacci (1).executor": "Run",
     "Python.area.executor": "Run",
     "Python.binary_rearch.executor": "Run",
@@ -104,8 +108,14 @@
     "Python.hero.executor": "Run",
     "Python.hero_fight.executor": "Run",
     "Python.home_furniture.executor": "Run",
+    "Python.inventory_manage.executor": "Run",
+    "Python.json.executor": "Run",
+    "Python.json_use (1).executor": "Run",
     "Python.library.executor": "Run",
     "Python.library_manage.executor": "Run",
+    "Python.log_in.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main.executor": "Run",
     "Python.online_course.executor": "Run",
     "Python.online_meal (1).executor": "Run",
     "Python.open_dir.executor": "Run",
@@ -142,7 +152,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -152,8 +162,8 @@
       <recent name="D:\git-pycharm\python_learn\encapsulation" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.orderlines">
-    <configuration name="day_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for pytest_assert.test_add">
+    <configuration name="log_in" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,11 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day3/inventory_manage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day1/day_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day3/inventory_manage/log_in.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day_1_goods_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day4/good_inventory" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/day_1_goods_info.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day4/good_inventory/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="debug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,55 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day3/inventory_manage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day2/debug.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="open_dir" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day2/open_dir.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="orderlines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day2/orderlines.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day3/inventory_manage/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,13 +244,47 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for pytest_assert.test_add" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pytest_assert.test_add&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for pytest_assert.test_assert" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pytest_assert.test_assert&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.orderlines" />
-        <item itemvalue="Python.open_dir" />
-        <item itemvalue="Python.day_1" />
-        <item itemvalue="Python.debug" />
-        <item itemvalue="Python.day_1_goods_info" />
+        <item itemvalue="Python tests.pytest for pytest_assert.test_add" />
+        <item itemvalue="Python tests.pytest for pytest_assert.test_assert" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.log_in" />
       </list>
     </recent_temporary>
   </component>

@@ -48,7 +48,7 @@ class Restaurant:
 #Restaurant 提供 display_orders 方法，展示所有顾客订单，格式为：顾客名: 菜品1 x 数量, 菜品2 x 数量 ---- 总金额.
     def display_orders(self):
         for i in self.orders:
-            print(i,type(i))
+            # print(i,type(i))
             print(f'{i["customer_name"]}: {i["order"][0]*i["order"][1]} --- {i["total"]}')
 
 

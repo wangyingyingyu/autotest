@@ -1,0 +1,2 @@
+[console_scripts]
+order-manager = hogwarts_function_utils.order_manager.__main__:main

@@ -60,16 +60,37 @@ my_sum(1,2,3,4)
 my_sum(1,2,3,4,5)
 my_sum(1,2,3,4,5,6)
 """
+# 中医
+class Father:
+    def cure(self):
+        print("使用中医方法进行治疗。。。")
 
-file = open('D:/bilibili-python/data.txt',"r")
-# 以行为单位读取文件所有的内容
-contents = file.readlines()
-print(contents)
-file.close()
+# 西医
+class Son:
+    def cure(self):
+        print("使用西医方法进行治疗。。。")
+
+# 兽医
+class AnimalDoctor:
+    def cure(self):
+        print("使用兽医方法进行治疗。。。")
+
+# 患者
+class Patient:
+    def need_doctor(self, doctor):
+        doctor.cure()
 
 
+if __name__ == '__main__':
+    old_doctor = Father()
+    little_doctor = Son()
+    animal_doctor = AnimalDoctor()
 
+    patient = Patient()
 
+    patient.need_doctor(old_doctor)
+    patient.need_doctor(little_doctor)
+    patient.need_doctor(animal_doctor)
 
 
 
