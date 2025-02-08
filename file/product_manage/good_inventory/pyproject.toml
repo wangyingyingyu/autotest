@@ -1,0 +1,14 @@
+[project]
+name = "商品库存管理"
+version = "0.0.1"
+description = "开发一个简单的商品库存管理系统，管理员可以查询商品的库存数量，修改库存值，并添加新的商品记录"
+authors = [
+    { name = "manager", email = "manager@example.com" }
+]
+dependencies = [
+    "requests",
+    "pydantic>=2.10.0,<2.10.6"
+]
+
+
+
