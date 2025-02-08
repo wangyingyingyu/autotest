@@ -1,0 +1,16 @@
+[build-system]
+   requires = ["setuptools", "wheel"]
+   build-backend = "setuptools.build_meta"
+
+[project]
+   name = "good_inventory"  # 修改为有效的名称
+   version = "0.0.1"
+   description = "my_project = good_inventory.main:main"
+
+
+# pip install dist/good_inventory-0.0.1-py3-none-any.whl
+#[project.scripts]
+#my_project = "good_inventory.main:main"  # 添加你的脚本
+
+
+

@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.py
+good_inventory/__init__.py
+good_inventory/exceptions.py
+good_inventory/file_operations.py
+good_inventory/inventory_operations.py
+good_inventory/login.py
+good_inventory/main.py
+good_inventory.egg-info/PKG-INFO
+good_inventory.egg-info/SOURCES.txt
+good_inventory.egg-info/dependency_links.txt
+good_inventory.egg-info/entry_points.txt
+good_inventory.egg-info/top_level.txt

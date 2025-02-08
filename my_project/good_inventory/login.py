@@ -71,3 +71,6 @@ def main():
             break
         else:
             print("无效输入，请重新选择！")
+# 主程序入口
+if __name__ == "__main__":
+    main()

@@ -50,8 +50,8 @@ def concat(path1, path2, path3):
     file3.write(content)
     file3.close()
 
-    # with open(path1) as file:
-    #     content_1 = file.read()
+    # with open(path1) as my_project:
+    #     content_1 = my_project.read()
     #
     content_1 = Path(path1).read_text()
 

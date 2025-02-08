@@ -1,0 +1,2 @@
+[console_scripts]
+my_project = good_inventory.main:main

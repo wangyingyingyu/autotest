@@ -7,11 +7,11 @@
 使用 f1.read() 和 f2.read() 读取文件内容。
 
 写入新文件：
-使用 with open('D:/bilibili-python/data.txt', "w") as file 打开目标文件，模式为 "w"（覆盖写入）。
-使用 file.write(content1) 和 file.write(content2) 将内容写入文件。
+使用 with open('D:/bilibili-python/data.txt', "w") as my_project 打开目标文件，模式为 "w"（覆盖写入）。
+使用 my_project.write(content1) 和 my_project.write(content2) 将内容写入文件。
 
 读取并打印新文件内容：
-使用 with open('D:/bilibili-python/data.txt', "r") as file 重新打开文件，读取并打印内容。
+使用 with open('D:/bilibili-python/data.txt', "r") as my_project 重新打开文件，读取并打印内容。
 
 文件路径：
 file1 和 file2 是文件路径字符串，传递给函数时不需要额外处理。

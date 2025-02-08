@@ -1,0 +1,78 @@
+要将你的 Python 项目打包为可发布的 Python 包，你可以执行以下步骤。
+这些步骤包括使用 `setuptools` 和 `wheel` 创建分发文件，确保你的项目在不需要 API 密钥的情况下可以运行。
+
+### 1. 更新 `setup.py`
+
+你已经有了基本的 `setup.py`，请确保按照最佳实践修改为以下内容，尤其是使用 `pyproject.toml` 来配置项目的元数据。
+
+python
+from setuptools import setup
+
+setup(
+    name='my_project',
+    version='0.0.1',
+    packages=['good_inventory'],
+    entry_points={
+        'console_scripts': [
+            'my_project=good_inventory.main:main',  # 这里假设 good_inventory.main 模块下有一个 main() 函数
+        ],
+    },
+)
+
+### 2. 创建 `pyproject.toml` 文件（可选）
+
+创建一个名为 `pyproject.toml` 的文件，内容如下：
+
+
+toml
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+
+这个文件定义了构建系统的依赖，是新的包打包推荐方式。
+
+### 3. 打包项目
+
+现在，你可以使用以下命令来打包项目。
+
+1. **安装 `setuptools` 和 `wheel`**：
+
+如果你还没有安装 `setuptools` 和 `wheel`，可以使用以下命令：
+
+
+bash
+pip install setuptools wheel
+
+
+2. **运行打包命令**：
+
+打开终端或命令提示符，导航到包含 `setup.py` 文件的目录，运行：
+
+
+bash
+python setup.py sdist bdist_wheel
+
+
+这将生成源代码分发包（`.tar.gz` 文件）和轮子包（`.whl` 文件），它们将位于 `dist` 目录中。
+
+### 4. 安装包测试
+
+在 `dist` 目录中，你可以找到生成的包。你可以使用下面的命令安装这个包，以测试它是否能够正常工作：
+
+
+bash
+pip install dist/my_project-0.0.1-py3-none-any.whl
+
+### 5. 运行你的脚本
+
+安装完毕后，你可以在命令行运行你定义的命令（假如 `main` 函数在你的 `good_inventory.main` 模块中定义）：
+
+                      bash
+my_project
+
+### 总结
+
+- 确保你的项目结构正确，`good_inventory` 文件夹中应该包含必要的 Python 文件。
+- 在打包之前，确保所有依赖都已经安装并且你的代码没有错误。
+- 使用 `setuptools` 和 `wheel` 来创建分发包。
