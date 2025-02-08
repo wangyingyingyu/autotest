@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8c1f4d-5fa5-466b-b6da-e6d4bb9a0920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/order_manage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order_manage/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order_manage/controller/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order_manage/controller/order_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order_manage/controller/user_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order_manage/model/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order_manage/model/order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order_manage/model/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order_manage/view/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day3/inventory_manage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day3/inventory_manage/log_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day3/inventory_manage/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day3/inventory_manage/order_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day3/inventory_manage/save_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day3/json_use.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day3/pyproject_toml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day4/good_inventory/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day4/good_inventory/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day4/good_inventory/file_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day4/good_inventory/inventory_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day4/good_inventory/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day4/pytest_assert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learn.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bilibili/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilibili/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/binary_rearch.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/bubble_sort.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/r_manmgement.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam/r_manmgement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/r_manmgement.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/rearch_different (2).zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/rearch_different.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/select_sort (2).zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/select_sort.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam/seven.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_work/hero.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/home_work/online_course.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_day2/inventory_manage.py" beforeDir="false" />
-    </list>
+    <list default="true" id="2c8c1f4d-5fa5-466b-b6da-e6d4bb9a0920" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
