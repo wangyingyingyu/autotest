@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c8c1f4d-5fa5-466b-b6da-e6d4bb9a0920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/good_inventory_file/good_inventory/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/good_inventory_file/good_inventory/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/good_inventory_file/good_inventory/inventory.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/good_inventory_file/good_inventory/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/good_inventory_file/good_inventory/pyproject.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_day4/good_inventory/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/good_inventory_file/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_day4/good_inventory/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/good_inventory_file/good_inventory/exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_day4/good_inventory/file_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/good_inventory_file/good_inventory/file_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_day4/good_inventory/inventory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/good_inventory_file/good_inventory/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_day4/good_inventory/inventory_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/good_inventory_file/good_inventory/inventory_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_day4/good_inventory/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/good_inventory_file/good_inventory/login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +120,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git-pycharm\python_learn\file\product_manage" />
+      <recent name="D:\git-pycharm\python_learn\product_manage" />
+      <recent name="D:\git-pycharm\python_learn\good_inventory_file" />
       <recent name="D:\git-pycharm\python_learn\home_work" />
       <recent name="D:\git-pycharm\python_learn\encapsulation" />
     </key>
