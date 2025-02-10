@@ -5,22 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c8c1f4d-5fa5-466b-b6da-e6d4bb9a0920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/my_project/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/recursion_fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/recursion_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day1/recursion_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day2/file_manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day2/product_inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day2/random_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day2/try_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/derivation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/regular_expression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/sys_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/yaml_use.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/product_manage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/good_inventory/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/product_manage/good_inventory/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/product_manage/good_inventory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/product_manage/good_inventory/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4_day4/文件打包.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/product_manage/good_inventory/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/good_inventory/exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/product_manage/good_inventory/file_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/good_inventory/file_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/product_manage/good_inventory/inventory.txt" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/good_inventory/inventory.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/product_manage/good_inventory/inventory_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/good_inventory/inventory_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/product_manage/good_inventory/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/good_inventory/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/product_manage/good_inventory/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/good_inventory/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/product_manage/good_inventory/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/my_project/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_manager-0.0.1/hogwarts_function_utils/test_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/order_manager-0.0.1/hogwarts_function_utils/test_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4_day2/open_dir.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4_day2/open_dir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_day3/json_use.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4_day3/json_use.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +71,7 @@
     "Python.day_1_log_in.executor": "Run",
     "Python.day_1_time.executor": "Run",
     "Python.debug.executor": "Debug",
+    "Python.derivation.executor": "Run",
     "Python.dog_cat.executor": "Run",
     "Python.ecommerce.executor": "Run",
     "Python.employee_management.executor": "Run",
@@ -81,6 +79,8 @@
     "Python.encapsulation_1.executor": "Run",
     "Python.father_chirldren.executor": "Run",
     "Python.fifth.executor": "Run",
+    "Python.file_manage (1).executor": "Run",
+    "Python.file_manage.executor": "Run",
     "Python.fourth.executor": "Run",
     "Python.hero.executor": "Run",
     "Python.hero_fight.executor": "Run",
@@ -88,6 +88,7 @@
     "Python.inventory_manage.executor": "Run",
     "Python.json.executor": "Run",
     "Python.json_use (1).executor": "Run",
+    "Python.json_use.executor": "Run",
     "Python.library.executor": "Run",
     "Python.library_manage.executor": "Run",
     "Python.log_in.executor": "Run",
@@ -101,12 +102,19 @@
     "Python.person.executor": "Run",
     "Python.play_game.executor": "Run",
     "Python.polymorphic.executor": "Run",
+    "Python.product_inventory.executor": "Run",
     "Python.r_manmgement.executor": "Run",
+    "Python.random_exception.executor": "Run",
     "Python.rearch_different.executor": "Run",
+    "Python.recursion_fibonacci.executor": "Run",
+    "Python.recursion_string.executor": "Debug",
+    "Python.recursion_sum.executor": "Debug",
+    "Python.regular_expression.executor": "Run",
     "Python.running_weight_loss.executor": "Run",
     "Python.select_sort.executor": "Run",
     "Python.shopping (1).executor": "Run",
     "Python.shopping.executor": "Debug",
+    "Python.sys_module.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test_05.executor": "Run",
     "Python.test_07.executor": "Run",
@@ -118,11 +126,12 @@
     "Python.work_04.executor": "Run",
     "Python.work_05.executor": "Run",
     "Python.work_08.executor": "Run",
+    "Python.yaml_use.executor": "Run",
     "Python.zoo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "hogwarts/master",
     "last_opened_file_path": "D:/git-pycharm/python_learn",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -135,15 +144,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\git-pycharm\python_learn\my_project" />
+      <recent name="D:\git-pycharm\python_learn\week4_day2" />
       <recent name="D:\git-pycharm\python_learn\week4_day3" />
+      <recent name="D:\git-pycharm\python_learn\my_project" />
       <recent name="D:\git-pycharm\python_learn\file" />
       <recent name="D:\git-pycharm\python_learn\file\product_manage" />
-      <recent name="D:\git-pycharm\python_learn\product_manage" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="log_in" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.product_inventory">
+    <configuration name="derivation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day3/inventory_manage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day3/inventory_manage/log_in.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day3/derivation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_manage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day4/good_inventory" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day4/good_inventory/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day2/file_manage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,11 +205,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day3/inventory_manage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day3/inventory_manage/main.py" />
+      <option name="SCRIPT_NAME" value="D:\git-pycharm\python_learn\week4_day2\file_manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product_inventory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day2/product_inventory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="regular_expression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day3/regular_expression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,47 +277,13 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for pytest_assert.test_add" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;pytest_assert.test_add&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for pytest_assert.test_assert" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;pytest_assert.test_assert&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python tests.pytest for pytest_assert.test_add" />
-        <item itemvalue="Python tests.pytest for pytest_assert.test_assert" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.log_in" />
+        <item itemvalue="Python.product_inventory" />
+        <item itemvalue="Python.file_manage (1)" />
+        <item itemvalue="Python.file_manage" />
+        <item itemvalue="Python.derivation" />
+        <item itemvalue="Python.regular_expression" />
       </list>
     </recent_temporary>
   </component>
@@ -293,6 +312,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_day1/recursion_sum.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">

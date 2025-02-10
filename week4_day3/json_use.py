@@ -53,7 +53,10 @@ print("数据已成功写入 data.json 文件。")
 `json.dump` 是一个用于将 Python 对象写入 JSON 文件的实用函数，
 适用于需要将数据持久存储或与其他系统交换数据的场景。通过控制不同的参数，可以定制输出的格式和行为。
 """
-
+import yaml
 
 import json
+
+
+
 
