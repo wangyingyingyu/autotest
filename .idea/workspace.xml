@@ -5,19 +5,235 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c8c1f4d-5fa5-466b-b6da-e6d4bb9a0920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week4_day1/recursion_fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/recursion_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day1/recursion_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day2/file_manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day2/product_inventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day2/random_exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day2/try_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day3/derivation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day3/regular_expression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day3/sys_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4_day3/yaml_use.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_2_15/notes/fixure_explain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_2_15/src/a_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_2_15/src/inventory_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_2_15/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_2_15/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_2_15/tests/test_inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_3/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_3/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_3/animal_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_3/sort_output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_3_15/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_3_15/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_3_15/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_3_15/templates/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai_a/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai_a/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai_a/app1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai_a/conf/dev.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai_a/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai_a/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openai_a/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po1/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po1/page/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po1/page/contacts_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po1/page/main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po1/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po1/tests/test_contects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po1/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po1/utils/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po2/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po2/page/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po2/page/contacts_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po2/page/main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po2/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po2/tests/test_contects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po2/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test/po2/utils/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test2/po1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test2/po1/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test2/po1/page/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test2/po1/page/contacts_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test2/po1/page/main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test2/po1/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test2/po1/tests/test_contects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test2/po1/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test2/po1/utils/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/po/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/po/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/po/page/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/po/page/good_add_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/po/page/good_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/po/page/home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/po/page/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/po/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/po/tests/test_contects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/po/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/po/utils/good_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/po/utils/log_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_test3/test_litemall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day2/func_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day3/json_use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/src/E_commerce_shopping_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/src/bank_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/src/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/temperaure_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/test_setup_teardown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/tests/calculator_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/tests/test_bankaccount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/tests/test_e_commerce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_day4/tests/test_pytest_raise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day1/data/weather.yaml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day1/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day1/src/fixture_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day1/src/weather_forecast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day1/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day1/tests/an_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day1/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day1/tests/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day1/tests/test_weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day1/tests/test_weather_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day4/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day4/src/student_manage_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day4/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day4/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day4/tests/pytest_ini.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5_day4/tests/test_student_manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day1/app_API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day1/first_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day1/json_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day1/json_html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day1/login_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day1/templates/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day2/a_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day2/blog_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day2/blueprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day2/login_register_blueprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day2/login_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day2/student_manage_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day2/url_redirect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/app2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/blog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/blog_jinja.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/jinja2_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/static/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/static/images/001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/static/images/002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/static/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/static/mystyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/static_css.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/templates/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/templates/blog_j.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/templates/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/templates/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/templates/demo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/templates/home_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/templates/jinja_info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day3/templates/static_css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day4/book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day4/openai_API/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day4/openai_API/cli_openai.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day4/static/design_patterns_cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day4/static/python_cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day4/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day4/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day4/templates/book_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day4/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day5/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day5/src/student_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day5/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day5/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6_day5/tests/test_student_management_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week8_day5/MySQL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week8_day5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week8_day5/time_counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week8_day5/列表去重.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day1/Interactive_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day1/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day1/baidu_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day1/explicit_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day1/selenium_verify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day1/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day1/templates/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day1/test_ceshiren.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day1/test_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/add_allure_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/css_ceshiren.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/enterprise_wechat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/log_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/practice_eight_positions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/switch_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/test_allure_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/test_litemall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/util/log_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day2/webdriver_xianshi_wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day3/alert_accept_dismiss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day3/confirm_dismiss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day3/prompt_send_keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day3/qiyeweix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day3/qiyeweixin_cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day3/test_action_chains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day3/test_debugger_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9_day3/页面下划.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learn.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilibili/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilibili/test_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/bubble_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/test_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/test_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/test_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/test_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/test_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/test_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilibili/多线程执行自动化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/binary_rearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/bubble_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/r_manmgement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/rearch_different.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/select_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam/seven.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilibili/弹窗确定按钮.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday/work_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday/work_01.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday/work_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday/work_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday/work_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday/work_05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday/work_06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday/work_07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday/work_08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_manage/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_manage/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_2/exam_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_manage/controller/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_manage/controller/order_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_2/exam_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_manage/controller/user_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_2/exam_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_manage/model/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_2/exam_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_manage/model/order.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_2_15/pytest.ini.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_manage/model/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_manage/view/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_2_15/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_day1/recursion_fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4_day1/recursion_fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_day2/inventory.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/exam_2_15/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_day2/product_inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4_day2/product_inventory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_day3/data.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/week4_day3/json_use.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4_day3/json_use.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_day3/yaml_use.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4_day3/yaml_use.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +243,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -44,18 +261,126 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python tests.Python tests in hero.py.executor": "Run",
     "Python tests.Python tests in test_hero.py.executor": "Run",
+    "Python tests.pytest for Interactive_control.TestInteractions.test_interaction_demo2.executor": "Run",
+    "Python tests.pytest for calculator_test.TestCalculator.executor": "Run",
+    "Python tests.pytest for calculator_test.TestCalculator.test_add.executor": "Run",
+    "Python tests.pytest for calculator_test.Test_Calculator.test_divide.executor": "Run",
+    "Python tests.pytest for calculator_test.Test_Calculator.test_multiply.executor": "Run",
+    "Python tests.pytest for calculator_test.test_d.executor": "Run",
+    "Python tests.pytest for calculator_test.test_m.executor": "Run",
+    "Python tests.pytest for calculator_test.test_s.executor": "Run",
+    "Python tests.pytest for ceshiren_demo1.TestHogwartsdemo1.executor": "Run",
+    "Python tests.pytest for css_ceshiren.TestCss.executor": "Run",
+    "Python tests.pytest for css_ceshiren.TestCss.test_css.executor": "Run",
+    "Python tests.pytest for prompt_send_keys.test_confirm.executor": "Run",
     "Python tests.pytest for pytest_assert.test_add.executor": "Run",
     "Python tests.pytest for pytest_assert.test_assert.executor": "Run",
+    "Python tests.pytest for qiyeweixin_cookie.TestCookieLogin.test_add_cookie.executor": "Run",
+    "Python tests.pytest for qiyeweixin_cookie.TestCookieLogin.test_get_cookies.executor": "Run",
+    "Python tests.pytest for temperaure_test.test_temperature.executor": "Run",
+    "Python tests.pytest for test_baidusearch.TestBaidusearch.executor": "Run",
+    "Python tests.pytest for test_bankaccount.TestBankAccount.executor": "Run",
+    "Python tests.pytest for test_bankaccount.TestBankAccount.test_deposit.executor": "Run",
+    "Python tests.pytest for test_bankaccount.TestBankAccount.test_withdraw.executor": "Run",
+    "Python tests.pytest for test_bingdemo.TestBingdemo.executor": "Run",
+    "Python tests.pytest for test_bingdemo.TestBingdemo.test_bingdemo.executor": "Run",
+    "Python tests.pytest for test_ceshirensearch.TestCeshirenSearch.test_ceshiren_search.executor": "Run",
+    "Python tests.pytest for test_contects.TestContacts.test_add_save.executor": "Run",
+    "Python tests.pytest for test_contects.TestContects.test_delete.executor": "Run",
+    "Python tests.pytest for test_debugger_address.TestDefaultSuite.executor": "Run",
+    "Python tests.pytest for test_debugger_address.TestDefaultSuite.test_add_weixin.executor": "Run",
+    "Python tests.pytest for test_debugger_address.TestDefaultSuite.test_get_cookies.executor": "Run",
+    "Python tests.pytest for test_e_commerce.TestShoppingCart.executor": "Run",
+    "Python tests.pytest for test_e_commerce.TestShoppingCart.test_add_good.executor": "Run",
+    "Python tests.pytest for test_e_commerce.TestShoppingCart.test_del_good.executor": "Run",
+    "Python tests.pytest for test_e_commerce.TestShoppingCart.test_goods_info.executor": "Run",
+    "Python tests.pytest for test_e_commerce.TestShoppingCart.test_settle_account.executor": "Run",
+    "Python tests.pytest for test_inventory.TestInventory.executor": "Run",
+    "Python tests.pytest for test_inventory.TestInventory.test_add.executor": "Run",
+    "Python tests.pytest for test_inventory.TestInventory.test_add_order.executor": "Run",
+    "Python tests.pytest for test_inventory.TestInventory.test_add_product.executor": "Run",
+    "Python tests.pytest for test_inventory.TestInventory.test_check_product.executor": "Run",
+    "Python tests.pytest for test_inventory.TestInventory.test_flow.executor": "Run",
+    "Python tests.pytest for test_litemall.TestCss.executor": "Run",
+    "Python tests.pytest for test_litemall.TestCss.test_css.executor": "Run",
+    "Python tests.pytest for test_litemall.TestLitemall.executor": "Run",
+    "Python tests.pytest for test_litemall.TestLitemall.test_add_good.executor": "Run",
+    "Python tests.pytest for test_login.TestUserAuth.test_change_password.executor": "Run",
+    "Python tests.pytest for test_openai.test_openai.executor": "Run",
+    "Python tests.pytest for test_pytest_raise.test_case1.executor": "Run",
+    "Python tests.pytest for test_pytest_raise.test_case2.executor": "Run",
+    "Python tests.pytest for test_qiyeweix.TestDefaultSuite.executor": "Run",
+    "Python tests.pytest for test_student_manage.TestStudent.executor": "Run",
+    "Python tests.pytest for test_student_manage.TestStudent.test_add.executor": "Run",
+    "Python tests.pytest for test_student_manage.TestStudent.test_delete_id.executor": "Run",
+    "Python tests.pytest for test_student_manage.TestStudent.test_delete_name.executor": "Run",
+    "Python tests.pytest for test_student_manage.TestStudent.test_query_id.executor": "Run",
+    "Python tests.pytest for test_student_manage.TestStudent.test_query_name.executor": "Run",
+    "Python tests.pytest for test_student_manage.TestStudent.test_stu_info.executor": "Run",
+    "Python tests.pytest for test_student_manage.TestStudent.test_update.executor": "Run",
+    "Python tests.pytest for test_student_management_system.TestStudentSystem.test_add_score.executor": "Run",
+    "Python tests.pytest for test_student_management_system.TestStudentSystem.test_average_school.executor": "Run",
+    "Python tests.pytest for test_student_management_system.TestStudentSystem.test_cal_average.executor": "Run",
+    "Python tests.pytest for test_student_management_system.TestStudentSystem.test_invalid_score.executor": "Run",
+    "Python tests.pytest for test_student_management_system.TestStudentSystem.test_invalid_score.test_invalid_score.executor": "Run",
+    "Python tests.pytest for test_student_system.TestStudent.test_add.executor": "Run",
+    "Python tests.pytest for test_student_system.TestStudent.test_delete_name.executor": "Run",
+    "Python tests.pytest for test_student_system.TestStudent.test_query_id.executor": "Run",
+    "Python tests.pytest for test_weather.TestWeather.executor": "Run",
+    "Python tests.pytest for test_weather.TestWeather.test_current_weather.executor": "Run",
+    "Python tests.pytest for test_weather.TestWeather.test_history_weather.executor": "Run",
+    "Python tests.pytest for test_weather.TestWeather.test_yaml.executor": "Run",
+    "Python tests.pytest for test_weather_fixture.TestWeather.test_show_weather.executor": "Run",
+    "Python tests.pytest in calculator_test.py.executor": "Run",
+    "Python tests.pytest in ceshiren_demo1.py.executor": "Run",
+    "Python tests.pytest in prompt_send_keys.py.executor": "Run",
+    "Python tests.pytest in pytest_tempure.py.executor": "Run",
+    "Python tests.pytest in temperaure_test.py.executor": "Run",
+    "Python tests.pytest in test_bingdemo.py.executor": "Run",
+    "Python tests.pytest in test_bingdemo2.py.executor": "Run",
+    "Python tests.pytest in test_ceshirensearch.py.executor": "Run",
+    "Python tests.pytest in test_debugger_address.py.executor": "Run",
+    "Python tests.pytest in test_e_commerce.py.executor": "Run",
+    "Python tests.pytest in test_inventory.py.executor": "Run",
+    "Python tests.pytest in test_litemall.py.executor": "Run",
+    "Python tests.pytest in test_method_demo.py.executor": "Run",
+    "Python tests.pytest in test_qiyeweix.py.executor": "Run",
+    "Python tests.pytest in test_student_manage.py.executor": "Run",
+    "Python tests.pytest in test_student_management_system.py.executor": "Run",
+    "Python tests.pytest in test_student_system.py.executor": "Run",
+    "Python tests.pytest in test_weather.py.executor": "Run",
+    "Python.13.executor": "Run",
+    "Python.14.executor": "Run",
     "Python.ClosuresDecorators.executor": "Run",
+    "Python.E_commerce_shopping_cart.executor": "Run",
     "Python.Fibonacci (1).executor": "Run",
+    "Python.a_example (1).executor": "Run",
+    "Python.a_example.executor": "Run",
+    "Python.a_file.executor": "Run",
+    "Python.an_example (1).executor": "Run",
+    "Python.animal_class.executor": "Run",
+    "Python.app (1).executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.app1.executor": "Run",
+    "Python.app2.executor": "Run",
+    "Python.app_API.executor": "Run",
     "Python.area.executor": "Run",
+    "Python.bank_system.executor": "Run",
     "Python.binary_rearch.executor": "Run",
     "Python.binary_search.executor": "Run",
+    "Python.blog.executor": "Run",
+    "Python.blog_jinja.executor": "Run",
+    "Python.blog_system.executor": "Run",
+    "Python.book.executor": "Run",
+    "Python.book_recommend_system.executor": "Run",
+    "Python.bubble_sort (1).executor": "Debug",
     "Python.bubble_sort.executor": "Run",
     "Python.children_father.executor": "Run",
     "Python.class_demo.executor": "Run",
+    "Python.cli_openai.executor": "Run",
     "Python.computer.executor": "Run",
     "Python.course.executor": "Run",
     "Python.course_manage.executor": "Run",
@@ -77,32 +402,48 @@
     "Python.employee_management.executor": "Run",
     "Python.employee_salary.executor": "Run",
     "Python.encapsulation_1.executor": "Run",
+    "Python.exam_11.executor": "Run",
+    "Python.exam_13.executor": "Run",
+    "Python.explicit_wait.executor": "Run",
     "Python.father_chirldren.executor": "Run",
     "Python.fifth.executor": "Run",
     "Python.file_manage (1).executor": "Run",
     "Python.file_manage.executor": "Run",
+    "Python.first_app.executor": "Run",
     "Python.fourth.executor": "Run",
+    "Python.func_count.executor": "Run",
+    "Python.good_info.executor": "Run",
     "Python.hero.executor": "Run",
     "Python.hero_fight.executor": "Run",
     "Python.home_furniture.executor": "Run",
     "Python.inventory_manage.executor": "Run",
+    "Python.inventory_system.executor": "Run",
+    "Python.jinja2.executor": "Run",
     "Python.json.executor": "Run",
+    "Python.json_flask.executor": "Run",
+    "Python.json_html.executor": "Run",
     "Python.json_use (1).executor": "Run",
     "Python.json_use.executor": "Run",
     "Python.library.executor": "Run",
     "Python.library_manage.executor": "Run",
     "Python.log_in.executor": "Run",
+    "Python.login_register.executor": "Run",
+    "Python.login_register_blueprint.executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.main.executor": "Run",
+    "Python.method_demo.executor": "Run",
     "Python.online_course.executor": "Run",
     "Python.online_meal (1).executor": "Run",
     "Python.open_dir.executor": "Run",
+    "Python.openai_cli.executor": "Run",
+    "Python.openai_use.executor": "Run",
     "Python.orderlines.executor": "Run",
     "Python.payment.executor": "Run",
     "Python.person.executor": "Run",
     "Python.play_game.executor": "Run",
     "Python.polymorphic.executor": "Run",
     "Python.product_inventory.executor": "Run",
+    "Python.qiyeweix.executor": "Run",
     "Python.r_manmgement.executor": "Run",
     "Python.random_exception.executor": "Run",
     "Python.rearch_different.executor": "Run",
@@ -112,27 +453,37 @@
     "Python.regular_expression.executor": "Run",
     "Python.running_weight_loss.executor": "Run",
     "Python.select_sort.executor": "Run",
+    "Python.selenium_verify.executor": "Run",
     "Python.shopping (1).executor": "Run",
     "Python.shopping.executor": "Debug",
+    "Python.sort_output.executor": "Run",
+    "Python.static_css.executor": "Run",
+    "Python.student_manage_system.executor": "Run",
+    "Python.student_system (1).executor": "Run",
+    "Python.student_system.executor": "Run",
     "Python.sys_module.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test_05.executor": "Run",
     "Python.test_07.executor": "Run",
     "Python.test_example.executor": "Run",
+    "Python.time_counter.executor": "Run",
+    "Python.url_redirect.executor": "Run",
     "Python.variableType.executor": "Run",
+    "Python.weather_forecast.executor": "Run",
     "Python.work_01.executor": "Run",
     "Python.work_02.executor": "Run",
     "Python.work_03.executor": "Run",
     "Python.work_04.executor": "Run",
     "Python.work_05.executor": "Run",
     "Python.work_08.executor": "Run",
+    "Python.xmind_csv.executor": "Run",
     "Python.yaml_use.executor": "Run",
     "Python.zoo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "hogwarts/master",
-    "last_opened_file_path": "D:/git-pycharm/python_learn",
+    "last_opened_file_path": "D:/git-pycharm/python_learn/web_auto_test2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -143,16 +494,19 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git-pycharm\python_learn\web_auto_test2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\git-pycharm\python_learn\week4_day2" />
-      <recent name="D:\git-pycharm\python_learn\week4_day3" />
-      <recent name="D:\git-pycharm\python_learn\my_project" />
-      <recent name="D:\git-pycharm\python_learn\file" />
-      <recent name="D:\git-pycharm\python_learn\file\product_manage" />
+      <recent name="D:\git-pycharm\python_learn\web_auto_test\po2" />
+      <recent name="D:\git-pycharm\python_learn\week9_day2" />
+      <recent name="D:\git-pycharm\python_learn\week9_day2\tests" />
+      <recent name="D:\git-pycharm\python_learn\week8_day5" />
+      <recent name="D:\git-pycharm\python_learn\bilibili" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.product_inventory">
-    <configuration name="derivation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_contects.TestContects.test_delete">
+    <configuration name="good_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,11 +515,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_auto_test3/po/utils" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day3/derivation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_auto_test3/po/utils/good_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,92 +528,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_manage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="python_learn" type="Python.FlaskServer">
       <module name="python_learn" />
+      <option name="target" value="$PROJECT_DIR$/exam_3_15/app.py" />
+      <option name="targetType" value="PATH" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day2" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day2/file_manage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="file_manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\git-pycharm\python_learn\week4_day2\file_manage.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="product_inventory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day2/product_inventory.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="regular_expression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_learn" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_day3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_day3/regular_expression.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="ShConfigurationType">
@@ -277,13 +559,81 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_contects.TestContects.test_delete" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_auto_test3/po/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_contects.TestContects.test_delete&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_litemall.TestLitemall" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_auto_test3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_litemall.TestLitemall&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_litemall.TestLitemall.test_add_good" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_auto_test3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_litemall.TestLitemall.test_add_good&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_litemall.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_auto_test3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/web_auto_test3/test_litemall.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.product_inventory" />
-        <item itemvalue="Python.file_manage (1)" />
-        <item itemvalue="Python.file_manage" />
-        <item itemvalue="Python.derivation" />
-        <item itemvalue="Python.regular_expression" />
+        <item itemvalue="Python tests.pytest for test_contects.TestContects.test_delete" />
+        <item itemvalue="Python tests.pytest for test_litemall.TestLitemall.test_add_good" />
+        <item itemvalue="Python.good_info" />
+        <item itemvalue="Python tests.pytest in test_litemall.py" />
+        <item itemvalue="Python tests.pytest for test_litemall.TestLitemall" />
       </list>
     </recent_temporary>
   </component>
@@ -304,6 +654,8 @@
       <updated>1736472947454</updated>
       <workItem from="1736508680019" duration="11000" />
       <workItem from="1736816690904" duration="27063000" />
+      <workItem from="1741318873518" duration="5000" />
+      <workItem from="1741704106612" duration="5000" />
     </task>
     <servers />
   </component>

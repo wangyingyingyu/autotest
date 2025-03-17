@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #3498db;
+}
+
+.book-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.book-item {
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+}
+
+.book-item img {
+    width: 150px;
+    height: 200px;
+}
+
+.book-detail {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.book-detail img {
+    width: 200px;
+    height: 250px;
+}

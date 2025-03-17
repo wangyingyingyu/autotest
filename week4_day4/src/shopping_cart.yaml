@@ -1,0 +1,8 @@
+- count: 8
+  name: book
+  price: 60
+  total: 480
+- count: 5
+  name: cosmetics
+  price: 500
+  total: 2500

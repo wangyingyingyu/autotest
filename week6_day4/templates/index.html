@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>书籍推荐</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>推荐书籍</h1>
+    <div class="book-list">
+        {% for book in books %}
+        <div class="book-item">
+            <a href="{{ url_for('book_detail', book_id=book.id) }}">
+                <img src="{{ url_for('static', filename=book.cover) }}" alt="{{ book.title }}">
+                <h2>{{ book.title }}</h2>
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

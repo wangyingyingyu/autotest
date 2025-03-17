@@ -22,9 +22,17 @@ with open('test_config.yaml','w') as file:
 with open("test_config.yaml",'r') as f:
     datas = yaml.safe_load(f)
 print(datas)
+datas['num'] = 100
+print(datas)
 print(type(datas))
 print(datas["version"])
-"""`.yaml` 文件中，存在重复的键（`name` 和 `count`），这会导致 YAML 的解析错误，进而导致语法高亮显示不正常。
+"""
+当你添加了新的键（如 `datas['num'] = 100`）后，虽然在 `datas` 字典中成功添加了这个项，
+但此时并没有将更新后的数据写入到 `.yaml` 文件中。因此在下一次读取这个文件时，不会看到 `num` 这个键。
+
+要将更新后的数据写回到 YAML 文件中，需要调用 `yaml.safe_dump()` 方法将修改后的数据写回文件。
+这是因为在 Python 中读取文件的数据是独立于文件的，修改对变量有效而不自动反映回文件。
+`.yaml` 文件中，存在重复的键（`name` 和 `count`），这会导致 YAML 的解析错误，进而导致语法高亮显示不正常。
 yaml
 name: apple
 count: 9

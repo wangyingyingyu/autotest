@@ -49,7 +49,8 @@ def bubble_sort(arr):   # 定义泡沫排序函数，接收一个列表arr作为
     return arr  # 返回排序后的数组
 
 if __name__ == '__main__':  # 当脚本作为主程序执行时
-    arr = [4, 5, 7, 2, 1]  # 初始化一个无序数组
+    arr = [5, 2, 3]  # 初始化一个无序数组
+    # arr = [4,5,2,7,1]
     print(bubble_sort(arr))
 
 """

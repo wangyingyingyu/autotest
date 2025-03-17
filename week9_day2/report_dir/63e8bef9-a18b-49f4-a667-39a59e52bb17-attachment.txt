@@ -1,0 +1,2 @@
+[2025-03-11 15:39:51] [INFO] [test_allure_log.py]/[line: 77]/[test_testdemo] 打开测试人社区 
+[2025-03-11 15:39:51] [INFO] [test_allure_log.py]/[line: 79]/[test_testdemo] 页面最大化 

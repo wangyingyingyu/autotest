@@ -1,0 +1,2 @@
+[32mINFO    [0m week9_day2.util.log_util:test_allure_log.py:78 打开测试人社区
+[32mINFO    [0m week9_day2.util.log_util:test_allure_log.py:80 页面最大化

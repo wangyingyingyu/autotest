@@ -1,0 +1,18 @@
+[2025-03-11 15:36:47] [INFO] [test_allure_log.py]/[line: 77]/[test_testdemo] 打开测试人社区 
+[2025-03-11 15:36:47] [INFO] [test_allure_log.py]/[line: 79]/[test_testdemo] 页面最大化 
+[2025-03-11 15:38:34] [INFO] [test_allure_log.py]/[line: 77]/[test_testdemo] 打开测试人社区 
+[2025-03-11 15:38:34] [INFO] [test_allure_log.py]/[line: 79]/[test_testdemo] 页面最大化 
+[2025-03-11 15:39:51] [INFO] [test_allure_log.py]/[line: 77]/[test_testdemo] 打开测试人社区 
+[2025-03-11 15:39:51] [INFO] [test_allure_log.py]/[line: 79]/[test_testdemo] 页面最大化 
+[2025-03-11 16:03:29] [INFO] [test_allure_log.py]/[line: 78]/[test_testdemo] 打开测试人社区 
+[2025-03-11 16:03:29] [INFO] [test_allure_log.py]/[line: 80]/[test_testdemo] 页面最大化 
+[2025-03-11 16:07:40] [INFO] [test_allure_log.py]/[line: 78]/[test_testdemo] 打开测试人社区 
+[2025-03-11 16:07:40] [INFO] [test_allure_log.py]/[line: 80]/[test_testdemo] 页面最大化 
+[2025-03-11 16:07:40] [INFO] [test_allure_log.py]/[line: 89]/[test_testdemo] 点击搜索icon 
+[2025-03-11 16:07:40] [INFO] [test_allure_log.py]/[line: 93]/[test_testdemo] 点击搜索框，输入搜索内容 
+[2025-03-11 16:10:30] [INFO] [test_allure_log.py]/[line: 78]/[test_testdemo] 打开测试人社区 
+[2025-03-11 16:10:30] [INFO] [test_allure_log.py]/[line: 80]/[test_testdemo] 页面最大化 
+[2025-03-11 16:10:30] [INFO] [test_allure_log.py]/[line: 89]/[test_testdemo] 点击搜索icon 
+[2025-03-11 16:10:30] [INFO] [test_allure_log.py]/[line: 93]/[test_testdemo] 点击搜索框，输入搜索内容 
+[2025-03-11 16:10:30] [INFO] [test_allure_log.py]/[line: 97]/[test_testdemo] 打开高级搜索 
+[2025-03-11 16:10:30] [INFO] [test_allure_log.py]/[line: 105]/[test_testdemo] 附加截屏到 Allure 报告 

@@ -13,51 +13,46 @@ import os
 def read_inventory(file_name):
     try:
         if not os.path.exists(file_name):
-
             with open(file_name,'w',encoding='utf-8'):
                 pass
             return f'文件不存在，创建库存文件{file_name}'
-
-
         else:
             with open(file_name,'r',encoding='utf-8') as file:
-                return yaml.safe_load(file)
-
-
+                return yaml.safe_load(file) or {}
     except Exception as e:
         print("文件不能读取",{e})
 
-
-
-# def write_inventory(product_data):
-#     try:
-#         with open("data.yaml","a") as file:
-#             yaml.safe_dump(product_data,file)
-#     except Exception as e:
-#         print("文件不能写入",{e})
+def write_inventory(file_name, data):
+    try:
+        with open(file_name, "w", encoding='utf-8') as file:
+            yaml.safe_dump(data, file, allow_unicode=True)
+    except Exception as e:
+        print("文件不能写入", e)
 
 def query_inventory(file_name):
     name = input("输入查询的商品名称:")
     datas = read_inventory(file_name)
-    for i in datas:
-        if i == name:
-            print(f"商品{name}的库存信息为{datas[i]}")
-        else:
-            print('库存中没有该商品')
+    if name in datas:
+        print(f"商品{name}的库存信息为{datas[name]}")
+    else:
+        print('库存中没有该商品')
 
 
 # 添加新商品
 def  add_product(file_name):
 
     product_name = input("输入商品名称")
+
     try:
         product_num = int(input("输入商品库存数量："))
+        inventory_data = read_inventory(file_name)
         if product_name in read_inventory(file_name):
             print("商品在库存中已存在")
         else:
-            read_inventory(file_name)[product_name] = product_num
+            inventory_data[product_name] = product_num
+            write_inventory(file_name, inventory_data)
             print(f"商品{product_name}已添加到库存")
-    except Exception:
+    except ValueError:
         print(f'库存数量为整数')
 
 # 修改库存
@@ -68,23 +63,21 @@ def update_stock(file_name):
         try:
             product_num = int(input("输入商品库存数量："))
             inventory_data[product_name] = product_num
-            print(f'{product_name}库存信息已存在')
-        except Exception as error:
+            write_inventory(file_name, inventory_data)
+            print(f'{product_name}库存信息已更新')
+        except ValueError as error:
             print("商品库存为整数",error)
     else:
         try:
             product_num = int(input("输入商品库存数量："))
             inventory_data[product_name] = product_num
+            write_inventory(file_name, inventory_data)
             print(f'{product_name}没有库存信息，重新添加')
         except Exception as error:
             print("商品库存为整数", error)
 
 
 def inventory_management_system():
-    '''
-    库存管理系统主程序
-    :return:
-    '''
 
     filename = "inventory.yaml"
 

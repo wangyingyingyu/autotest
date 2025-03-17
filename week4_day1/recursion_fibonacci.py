@@ -30,3 +30,15 @@ import os
 path_separator = os.sep
 print("Path Separator:", path_separator)
 
+# 编写一个函数，实现斐波那契数列每个数字加 1 的功能
+def fibonacci_recursive(n):
+    if n <= 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci_recursive(n-1) + fibonacci_recursive(n-2) + 1
+
+# 测试递归函数
+for i in range(10):
+    print(fibonacci_recursive(i), end=" ")

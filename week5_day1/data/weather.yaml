@@ -1,0 +1,22 @@
+Beijing:
+  '2023-10-01':
+    humidity: 60
+    temp: 20
+    windspeed: 10
+  '2025-02-10':
+    humidity: 60
+    temp: -7
+    windspeed: 10
+  today:
+    humidity: 66
+    temp: 24
+    windspeed: 15
+Shanghai:
+  '2023-10-01':
+    humidity: 40
+    temp: 25
+    windspeed: 5
+  today:
+    humidity: 61
+    temp: 24
+    windspeed: 12

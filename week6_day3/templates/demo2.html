@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" type="text/css" href="./static/mystyle.css">
+    <title>学生信息注册表单</title>
+</head>
+<body>
+    <div>
+        <nav>
+        <ul>
+            <li><a href="#home">主页</a></li>
+            <li><a href="#about">关于我们</a></li>
+            <li><a href="#contact">联系我们</a></li>
+        </ul>
+        </nav>
+        <h2>学生信息表格</h2>
+
+            <table>
+                <thead>
+                <tr>
+                    <td>学号</td>
+                    <td>姓名</td>
+                    <td>年龄</td>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Tom</td>
+                    <td>20</td>
+                </tr>
+                </tbody>
+            </table>
+        <h2>用户注册表单</h2>
+        <form action="/login" method="POST">
+            用户名：
+            <input type="text" name="username" placeholder="请输入你的用户名" required>
+            密码：
+            <input type="text" name="password" placeholder="请输入你的密码" required>
+            <input type="reset">
+            <input type="submit">
+        </form>
+    </div>
+
+</body>
+</html>
+<script type="text/javascript"></script>

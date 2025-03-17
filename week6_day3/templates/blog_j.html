@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>博客</title>
+</head>
+<body>
+
+  <div>
+      <h1>博客首页</h1>
+  <!--展示所有博客文章标题-->
+<!--    {% for post in posts  %}-->
+<!--    <p>-->
+<!--      博客标题列表为-->
+<!--      {{ post.title }}-->
+<!--    </p>-->
+<!--    {% endfor %}-->
+      <ul>
+          {% for post in posts %}
+          <li>
+              博客标题列表为：
+              <a href="/">{{ post.title }}</a>
+          </li>
+          {% endfor %}
+      </ul>
+
+  </div>
+
+</body>
+</html>
+<script type="text/javascript"></script>
