@@ -1,0 +1,11 @@
+[32mINFO    [0m frame.utils.log_util:error_handle.py:25 开始查找元素：xpath, //*[@resource-id='com.xueqiu.android:id/tv_banner']/child::*
+[32mINFO    [0m frame.utils.log_util:error_handle.py:25 开始查找元素：id, com.xueqiu.android:id/tv_text
+[32mINFO    [0m frame.utils.log_util:error_handle.py:25 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/stock_name_tv"]
+[32mINFO    [0m frame.utils.log_util:error_handle.py:25 开始查找元素：xpath, //*[@text='阿里巴巴']
+[32mINFO    [0m frame.utils.log_util:error_handle.py:25 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/floating_action_text_view_id" and @text="加自选"]
+[32mINFO    [0m frame.utils.log_util:error_handle.py:25 开始查找元素：id, com.xueqiu.android:id/iv_close
+[32mINFO    [0m frame.utils.log_util:error_handle.py:25 开始查找元素：id, com.xueqiu.android:id/action_back
+[32mINFO    [0m frame.utils.log_util:error_handle.py:25 开始查找元素：id, com.xueqiu.android:id/back_iv
+[32mINFO    [0m frame.utils.log_util:error_handle.py:25 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/tab_name" and @text="自选"]
+[32mINFO    [0m frame.utils.log_util:error_handle.py:25 开始查找元素：xpath, //*[@text="全部"]
+[32mINFO    [0m frame.utils.log_util:error_handle.py:25 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/content_recycler"]//*[@resource-id="com.xueqiu.android:id/portfolio_stockName"]

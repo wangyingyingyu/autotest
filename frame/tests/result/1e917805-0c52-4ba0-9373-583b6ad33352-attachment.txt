@@ -1,0 +1,11 @@
+[2025-03-20 19:42:04] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id='com.xueqiu.android:id/tv_banner']/child::* 
+[2025-03-20 19:42:13] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/tv_text 
+[2025-03-20 19:42:15] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/stock_name_tv"] 
+[2025-03-20 19:42:15] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@text='美的集团'] 
+[2025-03-20 19:42:15] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/floating_action_text_view_id" and @text="加自选"] 
+[2025-03-20 19:42:21] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/iv_close 
+[2025-03-20 19:42:21] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/action_back 
+[2025-03-20 19:42:22] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/back_iv 
+[2025-03-20 19:42:23] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/tab_name" and @text="自选"] 
+[2025-03-20 19:42:25] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@text="全部"] 
+[2025-03-20 19:42:27] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/content_recycler"]//*[@resource-id="com.xueqiu.android:id/portfolio_stockName"] 

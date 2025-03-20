@@ -39,3 +39,4 @@ class TestContects:
         logging.info("断言重新查找已经删除的商品是否存在")
 
         assert res == "暂无数据"
+

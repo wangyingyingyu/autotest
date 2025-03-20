@@ -1,0 +1,127 @@
+[2025-03-20 19:31:39] [INFO] [conftest.py]/[line: 11]/[<module>] 当前项目的绝对路径为 D:\git-pycharm\python_learn\frame 
+[2025-03-20 19:31:39] [INFO] [utils.py]/[line: 25]/[get_file_path] 文件的绝对路径为 D:\git-pycharm\python_learn\frame\datas/stock_name.yaml 
+[2025-03-20 19:31:39] [INFO] [utils.py]/[line: 25]/[get_file_path] 文件的绝对路径为 D:\git-pycharm\python_learn\frame\datas/first_search_text.yaml 
+[2025-03-20 19:32:40] [INFO] [conftest.py]/[line: 11]/[<module>] 当前项目的绝对路径为 D:\git-pycharm\python_learn\frame 
+[2025-03-20 19:32:40] [INFO] [utils.py]/[line: 25]/[get_file_path] 文件的绝对路径为 D:\git-pycharm\python_learn\frame\datas/stock_name.yaml 
+[2025-03-20 19:32:40] [INFO] [utils.py]/[line: 25]/[get_file_path] 文件的绝对路径为 D:\git-pycharm\python_learn\frame\datas/first_search_text.yaml 
+[2025-03-20 19:32:46] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id='com.xueqiu.android:id/tv_banner']/child::* 
+[2025-03-20 19:32:48] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/tv_text 
+[2025-03-20 19:32:49] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/stock_name_tv"] 
+[2025-03-20 19:32:50] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@text='阿里巴巴'] 
+[2025-03-20 19:32:50] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/floating_action_text_view_id" and @text="加自选"] 
+[2025-03-20 19:32:54] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/action_back 
+[2025-03-20 19:32:55] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/back_iv 
+[2025-03-20 19:32:56] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/tab_name" and @text="自选"] 
+[2025-03-20 19:32:57] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@text="全部"] 
+[2025-03-20 19:33:00] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/content_recycler"]//*[@resource-id="com.xueqiu.android:id/portfolio_stockName"] 
+[2025-03-20 19:33:05] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id='com.xueqiu.android:id/tv_banner']/child::* 
+[2025-03-20 19:33:10] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/tv_text 
+[2025-03-20 19:33:12] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/stock_name_tv"] 
+[2025-03-20 19:33:12] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@text='美的集团'] 
+[2025-03-20 19:33:12] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/floating_action_text_view_id" and @text="加自选"] 
+[2025-03-20 19:33:15] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/action_back 
+[2025-03-20 19:33:17] [WARNING] [error_handle.py]/[line: 32]/[run] 未找到元素，处理异常 
+[2025-03-20 19:33:17] [INFO] [utils.py]/[line: 71]/[save_source_datas] 资源保存的绝对路径为 D:\git-pycharm\python_learn\frame\images\2025-03-20-19-33-17.png 
+[2025-03-20 19:33:17] [INFO] [utils.py]/[line: 71]/[save_source_datas] 资源保存的绝对路径为 D:\git-pycharm\python_learn\frame\page_source\2025-03-20-19-33-17_pagesource.xml 
+[2025-03-20 19:33:22] [ERROR] [error_handle.py]/[line: 57]/[run] 遍历黑名单，仍未找到元素，异常信息为 ====> Message: androidx.test.uiautomator.StaleObjectException; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: androidx.test.uiautomator.StaleObjectException
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:63)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:259)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:253)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:77)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysPlain(NioEventLoop.java:514)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:468)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:818)
+Caused by: androidx.test.uiautomator.StaleObjectException
+	at androidx.test.uiautomator.UiObject2.getAccessibilityNodeInfo(UiObject2.java:1018)
+	at androidx.test.uiautomator.UiObject2.hashCode(UiObject2.java:139)
+	at java.lang.Object.toString(Object.java:355)
+	at java.util.Formatter.transform(Formatter.java:1421)
+	at java.util.Formatter.doFormat(Formatter.java:1081)
+	at java.util.Formatter.format(Formatter.java:1042)
+	at java.util.Formatter.format(Formatter.java:1011)
+	at java.lang.String.format(String.java:1554)
+	at java.lang.String.format(String.java:1528)
+	at io.appium.uiautomator2.utils.ReflectionUtils.invoke(ReflectionUtils.java:85)
+	at io.appium.uiautomator2.core.AxNodeInfoExtractor.extractAxNodeInfo(AxNodeInfoExtractor.java:58)
+	at io.appium.uiautomator2.core.AxNodeInfoExtractor.toAxNodeInfo(AxNodeInfoExtractor.java:48)
+	at io.appium.uiautomator2.model.BaseElement.click(BaseElement.java:71)
+	at io.appium.uiautomator2.handler.Click.safeHandle(Click.java:37)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)
+	... 33 more
+ 
+[2025-03-20 19:33:27] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id='com.xueqiu.android:id/tv_banner']/child::* 
+[2025-03-20 19:33:47] [WARNING] [error_handle.py]/[line: 32]/[run] 未找到元素，处理异常 
+[2025-03-20 19:33:47] [INFO] [utils.py]/[line: 71]/[save_source_datas] 资源保存的绝对路径为 D:\git-pycharm\python_learn\frame\images\2025-03-20-19-33-47.png 
+[2025-03-20 19:33:47] [INFO] [utils.py]/[line: 71]/[save_source_datas] 资源保存的绝对路径为 D:\git-pycharm\python_learn\frame\page_source\2025-03-20-19-33-47_pagesource.xml 
+[2025-03-20 19:33:51] [ERROR] [error_handle.py]/[line: 57]/[run] 遍历黑名单，仍未找到元素，异常信息为 ====> Message: An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\WYY\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\commands\find.ts:86:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\WYY\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\WYY\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:75:12) 
+[2025-03-20 19:41:40] [INFO] [conftest.py]/[line: 11]/[<module>] 当前项目的绝对路径为 D:\git-pycharm\python_learn\frame 
+[2025-03-20 19:41:40] [INFO] [utils.py]/[line: 25]/[get_file_path] 文件的绝对路径为 D:\git-pycharm\python_learn\frame\datas/stock_name.yaml 
+[2025-03-20 19:41:40] [INFO] [utils.py]/[line: 25]/[get_file_path] 文件的绝对路径为 D:\git-pycharm\python_learn\frame\datas/first_search_text.yaml 
+[2025-03-20 19:41:46] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id='com.xueqiu.android:id/tv_banner']/child::* 
+[2025-03-20 19:41:48] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/tv_text 
+[2025-03-20 19:41:50] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/stock_name_tv"] 
+[2025-03-20 19:41:50] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@text='阿里巴巴'] 
+[2025-03-20 19:41:50] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/floating_action_text_view_id" and @text="加自选"] 
+[2025-03-20 19:41:53] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/iv_close 
+[2025-03-20 19:41:54] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/action_back 
+[2025-03-20 19:41:54] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/back_iv 
+[2025-03-20 19:41:55] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/tab_name" and @text="自选"] 
+[2025-03-20 19:41:56] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@text="全部"] 
+[2025-03-20 19:41:59] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/content_recycler"]//*[@resource-id="com.xueqiu.android:id/portfolio_stockName"] 
+[2025-03-20 19:42:04] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id='com.xueqiu.android:id/tv_banner']/child::* 
+[2025-03-20 19:42:13] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/tv_text 
+[2025-03-20 19:42:15] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/stock_name_tv"] 
+[2025-03-20 19:42:15] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@text='美的集团'] 
+[2025-03-20 19:42:15] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/floating_action_text_view_id" and @text="加自选"] 
+[2025-03-20 19:42:21] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/iv_close 
+[2025-03-20 19:42:21] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/action_back 
+[2025-03-20 19:42:22] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/back_iv 
+[2025-03-20 19:42:23] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/tab_name" and @text="自选"] 
+[2025-03-20 19:42:25] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@text="全部"] 
+[2025-03-20 19:42:27] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/content_recycler"]//*[@resource-id="com.xueqiu.android:id/portfolio_stockName"] 
+[2025-03-20 19:42:33] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id='com.xueqiu.android:id/tv_banner']/child::* 
+[2025-03-20 19:42:35] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/tv_text 
+[2025-03-20 19:42:37] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/stock_name_tv"] 
+[2025-03-20 19:42:37] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@text='腾讯控股'] 
+[2025-03-20 19:42:38] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/floating_action_text_view_id" and @text="加自选"] 
+[2025-03-20 19:42:42] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/iv_close 
+[2025-03-20 19:42:42] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/action_back 
+[2025-03-20 19:42:43] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：id, com.xueqiu.android:id/back_iv 
+[2025-03-20 19:42:44] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/tab_name" and @text="自选"] 
+[2025-03-20 19:42:46] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@text="全部"] 
+[2025-03-20 19:42:48] [INFO] [error_handle.py]/[line: 25]/[run] 开始查找元素：xpath, //*[@resource-id="com.xueqiu.android:id/content_recycler"]//*[@resource-id="com.xueqiu.android:id/portfolio_stockName"] 
