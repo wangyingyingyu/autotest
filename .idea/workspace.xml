@@ -5,200 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c8c1f4d-5fa5-466b-b6da-e6d4bb9a0920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frame/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/base/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/base/error_handle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/base/xueqiu_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/datas/first_search_text.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/datas/stock_name.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/images/2025-03-20-19-33-17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/images/2025-03-20-19-33-47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/logs/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/page/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/page/first_result_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/page/main_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/page/my_select_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/page/result_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/page/search_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/page_source/2025-03-20-19-33-17_pagesource.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/page_source/2025-03-20-19-33-47_pagesource.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/0f4bd39c-e620-4271-b606-8b69842b074a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/1c8e9222-9251-4cd8-867a-731b36f98439-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/1e917805-0c52-4ba0-9373-583b6ad33352-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/22f74a66-8d72-49e1-9421-dca34ee969f3-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/2b597822-a5b8-4ec3-b80b-b13da3da1e92-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/75578de9-f86f-424e-8d30-4a24e6d8efab-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/77c4c0dd-b5bf-4ef9-9ec5-ef28f025107e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/7c0aeed3-7264-4d32-8099-8b7f304dcc72-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/7e2a8969-da0e-4d13-93e1-eff8cee05a16-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/8ae9cbae-4803-41d1-b067-36ba748fc05e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/8e4f618d-721c-4f97-983c-e386ba0e1072-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/916467d3-c5ec-424c-b9f2-d8f5933032a4-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/93bcd13f-58ea-4e09-8aba-c4a665c47ba1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/9be9fdd8-c588-4b3e-b071-a01219a673d4-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/a8e8ebe8-2911-476b-8d5a-e852218183da-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/b300d2f4-e1b4-4329-b78c-00d587fbacb1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/c685bcac-b764-4208-ab50-920e2bce886b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/result/cbeb6771-c2cb-4a98-83ce-a9572805a531-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/tests/test_xueqiu_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/utils/log_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frame/utils/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250318_235311.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250318_235313.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250318_235314.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250318_235315.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250318_235316.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250318_235318.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250318_235321.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_000720.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_000721.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_000722.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_000724.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_000725.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_000727.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_001220.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_001221.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_001222.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_001224.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_001225.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_001227.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_001229.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_001235.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_001236.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_001238.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_001243.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_075357.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_075400.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_075401.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_075403.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_075404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_075406.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_075413.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_075417.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_075419.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_075421.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_075425.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_080013.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_080015.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_080016.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_080018.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_080020.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_080022.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_080028.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_080032.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_080033.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_080035.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_080039.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_095916.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_095918.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_095919.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_095921.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_095922.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_095923.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_095926.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_095929.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_095930.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_095942.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/html/20250319_100010.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250318235310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250318235312.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250318235313.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250318235315.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250318235316.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250318235317.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250318235321.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319000719.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319000721.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319000722.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319000724.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319000725.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319000726.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319001219.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319001221.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319001222.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319001224.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319001225.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319001226.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319001229.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319001235.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319001236.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319001238.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319001242.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319075357.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319075359.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319075401.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319075403.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319075404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319075406.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319075412.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319075417.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319075419.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319075421.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319075425.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319080013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319080015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319080016.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319080018.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319080019.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319080021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319080028.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319080031.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319080032.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319080034.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319080038.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319095915.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319095917.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319095918.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319095921.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319095923.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319095926.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319095929.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319095942.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/img/20250319100010.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/data/logs/action_log.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/log_configuration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/06737f54-8256-4bb0-b128-c067886cc931-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/06820439-77a4-45d4-a903-73a0bfa6ac0d-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/0caec02d-10f4-464f-9d51-1c6c157a77aa-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/11d77c0d-c4be-42f4-9a57-d83ae6a5122e-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/1f11b23d-56f2-48f6-8674-b3fe564d2ca9-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/3d249614-ddda-42f1-b031-485c24283749-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/406c3acd-7e6a-4f48-afad-eceadb73af27-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/6e55d6ee-b184-4cfb-9c31-84230b146dc0-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/6ec5fa3a-aebe-4d21-9d53-54ca24c5253e-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/7266bd28-7929-4ce1-866c-fd93147c41d4-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/8649d2de-9248-48f6-889e-59b4b7fa9ad4-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/90b415b7-9dcf-4a90-b0dc-985179578f75-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/90f822f9-8806-4fa8-b79f-2d229b30cf45-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/91bcf7bf-ac48-49e7-8019-17bb99b74eca-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/95c97f86-041a-48b8-8ab5-5d5e96f2e2fb-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/ae556128-4b36-46df-83a3-2e3402a9c9ac-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/c16ee41b-8a87-43fb-bd6b-6f1a584844b8-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/c24f37ab-b205-4ece-97a7-4b8ffa684d3f-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/cc771ad3-cba7-4c86-b864-78f2de317d84-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/cd28d2be-6402-4776-99fe-37324b2c5448-attachment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/d8b4fca3-1a4e-43f6-bf68-003f1484240f-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/e8451f2d-9e9f-4855-a0c4-c47a84c81f0b-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/edce0518-786b-4ca0-b0f4-474a4150eb97-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/f07bd4c2-6a5c-45a3-8e73-659ccc72f676-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/result/f9d95025-dee1-4311-8c02-f9cd02110dbc-attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/test_APIDemos_swipe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/test_add_feishu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/test_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/test_xueqiu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/test_xueqiu_homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/test_xueqiu_record.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/test_xueqiu_zixuan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day1/text_xueqiu_swipe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week10_day3/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_week9/exam_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_week9/exam_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/apis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/apis/base_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/apis/contacts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/apis/contacts/departments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/apis/weworks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/config/wework.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/data/department.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/test_departments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/tests/test_department.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/utils/log_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_ao/utils/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day2/requests_method_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day2/test_jsonpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day2/test_litemall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day2/test_pet_manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day2/test_spring_petclinic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day3/data/department.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day3/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day3/tests/test_get_qiyeweixin_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day3/tests/test_qiyeweixin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day3/tests/test_qiyeweixin_single_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11_day3/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_auto_test3/po/tests/test_contects.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_auto_test3/po/tests/test_contects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilibili/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilibili/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,6 +84,13 @@
     "Python tests.pytest for pytest_assert.test_assert.executor": "Run",
     "Python tests.pytest for qiyeweixin_cookie.TestCookieLogin.test_add_cookie.executor": "Run",
     "Python tests.pytest for qiyeweixin_cookie.TestCookieLogin.test_get_cookies.executor": "Run",
+    "Python tests.pytest for requests_method_demo.test_assert_json.executor": "Run",
+    "Python tests.pytest for requests_method_demo.test_assert_jsonpath.executor": "Run",
+    "Python tests.pytest for requests_method_demo.test_get.executor": "Run",
+    "Python tests.pytest for requests_method_demo.test_get_demo1.executor": "Run",
+    "Python tests.pytest for requests_method_demo.test_get_params.executor": "Run",
+    "Python tests.pytest for requests_method_demo.test_json.executor": "Run",
+    "Python tests.pytest for requests_method_demo.test_send_headers.executor": "Run",
     "Python tests.pytest for temperaure_test.test_temperature.executor": "Run",
     "Python tests.pytest for test_APIDemos_swipe.TestAppium.test_demos_swipe.executor": "Run",
     "Python tests.pytest for test_app.TestAppRedio.executor": "Run",
@@ -263,26 +108,55 @@
     "Python tests.pytest for test_debugger_address.TestDefaultSuite.executor": "Run",
     "Python tests.pytest for test_debugger_address.TestDefaultSuite.test_add_weixin.executor": "Run",
     "Python tests.pytest for test_debugger_address.TestDefaultSuite.test_get_cookies.executor": "Run",
+    "Python tests.pytest for test_department.TestDepartment.test_check.executor": "Run",
+    "Python tests.pytest for test_department.TestDepartment.test_create.executor": "Run",
+    "Python tests.pytest for test_department.TestDepartment.test_delete.executor": "Run",
+    "Python tests.pytest for test_department.TestDepartment.test_update.executor": "Run",
     "Python tests.pytest for test_e_commerce.TestShoppingCart.executor": "Run",
     "Python tests.pytest for test_e_commerce.TestShoppingCart.test_add_good.executor": "Run",
     "Python tests.pytest for test_e_commerce.TestShoppingCart.test_del_good.executor": "Run",
     "Python tests.pytest for test_e_commerce.TestShoppingCart.test_goods_info.executor": "Run",
     "Python tests.pytest for test_e_commerce.TestShoppingCart.test_settle_account.executor": "Run",
+    "Python tests.pytest for test_get_qiyeweixin_token.TestQiYeWeiXin.test_get_token2.executor": "Run",
     "Python tests.pytest for test_inventory.TestInventory.executor": "Run",
     "Python tests.pytest for test_inventory.TestInventory.test_add.executor": "Run",
     "Python tests.pytest for test_inventory.TestInventory.test_add_order.executor": "Run",
     "Python tests.pytest for test_inventory.TestInventory.test_add_product.executor": "Run",
     "Python tests.pytest for test_inventory.TestInventory.test_check_product.executor": "Run",
     "Python tests.pytest for test_inventory.TestInventory.test_flow.executor": "Run",
+    "Python tests.pytest for test_jsonpath.test_get_jsonpath.executor": "Run",
+    "Python tests.pytest for test_jsonpath.test_get_jsonpath2.executor": "Run",
     "Python tests.pytest for test_litemall.TestCss.executor": "Run",
     "Python tests.pytest for test_litemall.TestCss.test_css.executor": "Run",
+    "Python tests.pytest for test_litemall.TestLiteMall.test_add.executor": "Run",
+    "Python tests.pytest for test_litemall.TestLiteMall.test_delete_good.executor": "Run",
+    "Python tests.pytest for test_litemall.TestLiteMall.test_good_list.executor": "Run",
+    "Python tests.pytest for test_litemall.TestLiteMall.test_login.executor": "Run",
     "Python tests.pytest for test_litemall.TestLitemall.executor": "Run",
     "Python tests.pytest for test_litemall.TestLitemall.test_add_good.executor": "Run",
+    "Python tests.pytest for test_litemall.TestPetClinic.test_city.executor": "Run",
+    "Python tests.pytest for test_litemall.TestPetClinic.test_not_owner.executor": "Run",
+    "Python tests.pytest for test_litemall.TestPetClinic.test_owner.executor": "Run",
+    "Python tests.pytest for test_litemall.TestPetClinic.test_search_all.executor": "Run",
     "Python tests.pytest for test_login.TestUserAuth.test_change_password.executor": "Run",
     "Python tests.pytest for test_openai.test_openai.executor": "Run",
+    "Python tests.pytest for test_pet_manage.TestPetClinic.test_not_owner.executor": "Run",
+    "Python tests.pytest for test_pet_manage.TestPetClinic.test_owner.executor": "Run",
+    "Python tests.pytest for test_pet_manage.TestPetClinic.test_search_all.executor": "Run",
     "Python tests.pytest for test_pytest_raise.test_case1.executor": "Run",
     "Python tests.pytest for test_pytest_raise.test_case2.executor": "Run",
     "Python tests.pytest for test_qiyeweix.TestDefaultSuite.executor": "Run",
+    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.executor": "Run",
+    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_create_department.executor": "Run",
+    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_delete_department.executor": "Run",
+    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_get_department_list.executor": "Run",
+    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_get_token.executor": "Run",
+    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_get_token2.executor": "Run",
+    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_update_department.executor": "Run",
+    "Python tests.pytest for test_spring_petclinic.TestPetClinic.test_city.executor": "Run",
+    "Python tests.pytest for test_spring_petclinic.TestPetClinic.test_not_owner.executor": "Run",
+    "Python tests.pytest for test_spring_petclinic.TestPetClinic.test_owner.executor": "Run",
+    "Python tests.pytest for test_spring_petclinic.TestPetClinic.test_search_all.executor": "Run",
     "Python tests.pytest for test_student_manage.TestStudent.executor": "Run",
     "Python tests.pytest for test_student_manage.TestStudent.test_add.executor": "Run",
     "Python tests.pytest for test_student_manage.TestStudent.test_delete_id.executor": "Run",
@@ -315,6 +189,7 @@
     "Python tests.pytest in ceshiren_demo1.py.executor": "Run",
     "Python tests.pytest in prompt_send_keys.py.executor": "Run",
     "Python tests.pytest in pytest_tempure.py.executor": "Run",
+    "Python tests.pytest in requests_method_demo.py.executor": "Run",
     "Python tests.pytest in temperaure_test.py.executor": "Run",
     "Python tests.pytest in test_APIDemos_swipe.py.executor": "Run",
     "Python tests.pytest in test_app.py.executor": "Run",
@@ -327,6 +202,7 @@
     "Python tests.pytest in test_litemall.py.executor": "Run",
     "Python tests.pytest in test_method_demo.py.executor": "Run",
     "Python tests.pytest in test_qiyeweix.py.executor": "Run",
+    "Python tests.pytest in test_qiyeweixin.py.executor": "Run",
     "Python tests.pytest in test_student_manage.py.executor": "Run",
     "Python tests.pytest in test_student_management_system.py.executor": "Run",
     "Python tests.pytest in test_student_system.py.executor": "Run",
@@ -382,6 +258,7 @@
     "Python.employee_salary.executor": "Run",
     "Python.encapsulation_1.executor": "Run",
     "Python.exam_11.executor": "Run",
+    "Python.exam_12.executor": "Run",
     "Python.exam_13.executor": "Run",
     "Python.explicit_wait.executor": "Run",
     "Python.father_chirldren.executor": "Run",
@@ -447,8 +324,10 @@
     "Python.test_example.executor": "Run",
     "Python.time_counter.executor": "Run",
     "Python.url_redirect.executor": "Run",
+    "Python.utils.executor": "Run",
     "Python.variableType.executor": "Run",
     "Python.weather_forecast.executor": "Run",
+    "Python.weworks.executor": "Run",
     "Python.work_01.executor": "Run",
     "Python.work_02.executor": "Run",
     "Python.work_03.executor": "Run",
@@ -478,15 +357,15 @@
       <recent name="D:\git-pycharm\python_learn\web_auto_test2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\git-pycharm\python_learn\week11_day3\tests" />
+      <recent name="D:\git-pycharm\python_learn\week11_day3" />
       <recent name="D:\git-pycharm\python_learn\web_auto_test\po2" />
       <recent name="D:\git-pycharm\python_learn\week9_day2" />
       <recent name="D:\git-pycharm\python_learn\week9_day2\tests" />
-      <recent name="D:\git-pycharm\python_learn\week8_day5" />
-      <recent name="D:\git-pycharm\python_learn\bilibili" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_xueqiu_search.TestXueqiu.test_auto_select">
-    <configuration name="xueqiu_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_department.TestDepartment.test_delete">
+    <configuration name="weworks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -495,11 +374,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/frame/base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_ao/apis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/frame/base/xueqiu_app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface_ao/apis/weworks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -539,81 +418,81 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for frame.tests.test_xueqiu_search.TestXueqiu.test_xueqiu" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_department.TestDepartment.test_check" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/frame/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_ao/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;frame.tests.test_xueqiu_search.TestXueqiu.test_xueqiu&quot;" />
+      <option name="_new_target" value="&quot;test_department.TestDepartment.test_check&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_xueqiu_record.TestAppium" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_department.TestDepartment.test_create" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week10_day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_ao/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu_record.TestAppium&quot;" />
+      <option name="_new_target" value="&quot;test_department.TestDepartment.test_create&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_xueqiu_record.TestAppium.test_xueqiu" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_department.TestDepartment.test_delete" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week10_day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_ao/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu_record.TestAppium.test_xueqiu&quot;" />
+      <option name="_new_target" value="&quot;test_department.TestDepartment.test_delete&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_xueqiu_search.TestXueqiu.test_auto_select" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_department.TestDepartment.test_update" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/frame/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_ao/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_xueqiu_search.TestXueqiu.test_auto_select&quot;" />
+      <option name="_new_target" value="&quot;test_department.TestDepartment.test_update&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_xueqiu_search.TestXueqiu.test_auto_select" />
-        <item itemvalue="Python.xueqiu_app" />
-        <item itemvalue="Python tests.pytest for frame.tests.test_xueqiu_search.TestXueqiu.test_xueqiu" />
-        <item itemvalue="Python tests.pytest for test_xueqiu_record.TestAppium.test_xueqiu" />
-        <item itemvalue="Python tests.pytest for test_xueqiu_record.TestAppium" />
+        <item itemvalue="Python tests.pytest for test_department.TestDepartment.test_delete" />
+        <item itemvalue="Python tests.pytest for test_department.TestDepartment.test_check" />
+        <item itemvalue="Python tests.pytest for test_department.TestDepartment.test_update" />
+        <item itemvalue="Python tests.pytest for test_department.TestDepartment.test_create" />
+        <item itemvalue="Python.weworks" />
       </list>
     </recent_temporary>
   </component>
