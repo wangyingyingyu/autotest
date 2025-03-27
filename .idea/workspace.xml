@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c8c1f4d-5fa5-466b-b6da-e6d4bb9a0920" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exam_week9/exam_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_week9/exam_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/apis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/apis/base_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/apis/contacts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/apis/contacts/departments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/apis/weworks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/config/wework.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/data/department.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/test_departments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/tests/test_department.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/utils/log_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interface_ao/utils/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day2/requests_method_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day2/test_jsonpath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day2/test_litemall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day2/test_pet_manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day2/test_spring_petclinic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day3/data/department.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day3/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day3/tests/test_get_qiyeweixin_token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day3/tests/test_qiyeweixin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day3/tests/test_qiyeweixin_single_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11_day3/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bilibili/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilibili/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface_ao/tests/test_department.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface_ao/tests/test_department.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

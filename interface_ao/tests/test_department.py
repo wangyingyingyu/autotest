@@ -25,6 +25,8 @@ class TestDepartment:
     @pytest.mark.parametrize("data,expect", Utils.get_yaml_data("../data/department.yaml").get("update"),
                              ids=["更新广州研发中心的英文简称", "更新北京研发中心的英文简称",
                                   "更新上海研发中心的英文简称，父id为2"])
+    @allure.story("部门管理")
+    @allure.title("更新部门")
     def test_update(self,data,expect):
         with allure.step("调用更新部门信息接口"):
             r=self.depart.update(data)
@@ -33,6 +35,8 @@ class TestDepartment:
 
     @pytest.mark.parametrize("data,expect", Utils.get_yaml_data("../data/department.yaml").get("get_list"),
                              ids=["部门ID为1的列表", "不存在部门ID为9的列表", "部门ID为2的列表", "部门ID为4的列表"])
+    @allure.story("部门管理")
+    @allure.title("查看部门")
     def test_check(self,data,expect):
         with allure.step("调用查看部门信息接口"):
             r=self.depart.check(data)
@@ -42,6 +46,8 @@ class TestDepartment:
     @pytest.mark.parametrize("data,expect", Utils.get_yaml_data("../data/department.yaml").get("delete"),
                              ids=["删除ID为1的根部门", "删除部门ID为2含有子部门的部门", "删除部门ID为3的部门",
                                   "删除部门ID为4的部门","再次删除部门ID为2的部门"])
+    @allure.story("部门管理")
+    @allure.title("删除部门")
     def test_delete(self,data,expect):
         with allure.step("调用删除部门信息接口"):
             r=self.depart.delete(data)
