@@ -5,8 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c8c1f4d-5fa5-466b-b6da-e6d4bb9a0920" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bilibili/data/example.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_week11/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_week11/exam22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_week11/exam23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_week11/exam24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam_week11/exam25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/data/cookie.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/data/recipients.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/page/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/page/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/page/main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/page/order_create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/page/waiting_sent_flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/tests/test_ERP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/utils/get_cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/utils/get_datas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_auto_ERP_test/po/utils/log_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12-day1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12-day1/xmind-csv-file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12-day1/xmind-csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12day3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12day3/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12day3/test_ERP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12day3/test_ERP_flow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learn.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface_ao/tests/test_department.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface_ao/tests/test_department.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilibili/._xmind_csv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilibili/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilibili/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bilibili/弹窗确定按钮.py" beforeDir="false" afterPath="$PROJECT_DIR$/bilibili/弹窗确定按钮.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam_3/13.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam_3/14.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam_3/animal_class.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam_3/sort_output.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam_week9/exam_11.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam_week9/exam_12.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_auto_test3/po/page/good_add_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_auto_test3/po/page/good_add_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_auto_test3/po/page/good_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_auto_test3/po/page/good_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_auto_test3/po/page/home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_auto_test3/po/page/home_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_auto_test3/po/page/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_auto_test3/po/page/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/王盈盈.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,298 +77,313 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python tests.Python tests in hero.py.executor": "Run",
-    "Python tests.Python tests in test_hero.py.executor": "Run",
-    "Python tests.pytest for Interactive_control.TestInteractions.test_interaction_demo2.executor": "Run",
-    "Python tests.pytest for app.TestAppium.test_appium.executor": "Run",
-    "Python tests.pytest for calculator_test.TestCalculator.executor": "Run",
-    "Python tests.pytest for calculator_test.TestCalculator.test_add.executor": "Run",
-    "Python tests.pytest for calculator_test.Test_Calculator.test_divide.executor": "Run",
-    "Python tests.pytest for calculator_test.Test_Calculator.test_multiply.executor": "Run",
-    "Python tests.pytest for calculator_test.test_d.executor": "Run",
-    "Python tests.pytest for calculator_test.test_m.executor": "Run",
-    "Python tests.pytest for calculator_test.test_s.executor": "Run",
-    "Python tests.pytest for ceshiren_demo1.TestHogwartsdemo1.executor": "Run",
-    "Python tests.pytest for css_ceshiren.TestCss.executor": "Run",
-    "Python tests.pytest for css_ceshiren.TestCss.test_css.executor": "Run",
-    "Python tests.pytest for prompt_send_keys.test_confirm.executor": "Run",
-    "Python tests.pytest for pytest_assert.test_add.executor": "Run",
-    "Python tests.pytest for pytest_assert.test_assert.executor": "Run",
-    "Python tests.pytest for qiyeweixin_cookie.TestCookieLogin.test_add_cookie.executor": "Run",
-    "Python tests.pytest for qiyeweixin_cookie.TestCookieLogin.test_get_cookies.executor": "Run",
-    "Python tests.pytest for requests_method_demo.test_assert_json.executor": "Run",
-    "Python tests.pytest for requests_method_demo.test_assert_jsonpath.executor": "Run",
-    "Python tests.pytest for requests_method_demo.test_get.executor": "Run",
-    "Python tests.pytest for requests_method_demo.test_get_demo1.executor": "Run",
-    "Python tests.pytest for requests_method_demo.test_get_params.executor": "Run",
-    "Python tests.pytest for requests_method_demo.test_json.executor": "Run",
-    "Python tests.pytest for requests_method_demo.test_send_headers.executor": "Run",
-    "Python tests.pytest for temperaure_test.test_temperature.executor": "Run",
-    "Python tests.pytest for test_APIDemos_swipe.TestAppium.test_demos_swipe.executor": "Run",
-    "Python tests.pytest for test_app.TestAppRedio.executor": "Run",
-    "Python tests.pytest for test_app.TestAppium.executor": "Run",
-    "Python tests.pytest for test_app.TestAppium.test_appium.executor": "Run",
-    "Python tests.pytest for test_baidusearch.TestBaidusearch.executor": "Run",
-    "Python tests.pytest for test_bankaccount.TestBankAccount.executor": "Run",
-    "Python tests.pytest for test_bankaccount.TestBankAccount.test_deposit.executor": "Run",
-    "Python tests.pytest for test_bankaccount.TestBankAccount.test_withdraw.executor": "Run",
-    "Python tests.pytest for test_bingdemo.TestBingdemo.executor": "Run",
-    "Python tests.pytest for test_bingdemo.TestBingdemo.test_bingdemo.executor": "Run",
-    "Python tests.pytest for test_ceshirensearch.TestCeshirenSearch.test_ceshiren_search.executor": "Run",
-    "Python tests.pytest for test_contects.TestContacts.test_add_save.executor": "Run",
-    "Python tests.pytest for test_contects.TestContects.test_delete.executor": "Run",
-    "Python tests.pytest for test_debugger_address.TestDefaultSuite.executor": "Run",
-    "Python tests.pytest for test_debugger_address.TestDefaultSuite.test_add_weixin.executor": "Run",
-    "Python tests.pytest for test_debugger_address.TestDefaultSuite.test_get_cookies.executor": "Run",
-    "Python tests.pytest for test_department.TestDepartment.test_check.executor": "Run",
-    "Python tests.pytest for test_department.TestDepartment.test_create.executor": "Run",
-    "Python tests.pytest for test_department.TestDepartment.test_delete.executor": "Run",
-    "Python tests.pytest for test_department.TestDepartment.test_update.executor": "Run",
-    "Python tests.pytest for test_e_commerce.TestShoppingCart.executor": "Run",
-    "Python tests.pytest for test_e_commerce.TestShoppingCart.test_add_good.executor": "Run",
-    "Python tests.pytest for test_e_commerce.TestShoppingCart.test_del_good.executor": "Run",
-    "Python tests.pytest for test_e_commerce.TestShoppingCart.test_goods_info.executor": "Run",
-    "Python tests.pytest for test_e_commerce.TestShoppingCart.test_settle_account.executor": "Run",
-    "Python tests.pytest for test_get_qiyeweixin_token.TestQiYeWeiXin.test_get_token2.executor": "Run",
-    "Python tests.pytest for test_inventory.TestInventory.executor": "Run",
-    "Python tests.pytest for test_inventory.TestInventory.test_add.executor": "Run",
-    "Python tests.pytest for test_inventory.TestInventory.test_add_order.executor": "Run",
-    "Python tests.pytest for test_inventory.TestInventory.test_add_product.executor": "Run",
-    "Python tests.pytest for test_inventory.TestInventory.test_check_product.executor": "Run",
-    "Python tests.pytest for test_inventory.TestInventory.test_flow.executor": "Run",
-    "Python tests.pytest for test_jsonpath.test_get_jsonpath.executor": "Run",
-    "Python tests.pytest for test_jsonpath.test_get_jsonpath2.executor": "Run",
-    "Python tests.pytest for test_litemall.TestCss.executor": "Run",
-    "Python tests.pytest for test_litemall.TestCss.test_css.executor": "Run",
-    "Python tests.pytest for test_litemall.TestLiteMall.test_add.executor": "Run",
-    "Python tests.pytest for test_litemall.TestLiteMall.test_delete_good.executor": "Run",
-    "Python tests.pytest for test_litemall.TestLiteMall.test_good_list.executor": "Run",
-    "Python tests.pytest for test_litemall.TestLiteMall.test_login.executor": "Run",
-    "Python tests.pytest for test_litemall.TestLitemall.executor": "Run",
-    "Python tests.pytest for test_litemall.TestLitemall.test_add_good.executor": "Run",
-    "Python tests.pytest for test_litemall.TestPetClinic.test_city.executor": "Run",
-    "Python tests.pytest for test_litemall.TestPetClinic.test_not_owner.executor": "Run",
-    "Python tests.pytest for test_litemall.TestPetClinic.test_owner.executor": "Run",
-    "Python tests.pytest for test_litemall.TestPetClinic.test_search_all.executor": "Run",
-    "Python tests.pytest for test_login.TestUserAuth.test_change_password.executor": "Run",
-    "Python tests.pytest for test_openai.test_openai.executor": "Run",
-    "Python tests.pytest for test_pet_manage.TestPetClinic.test_not_owner.executor": "Run",
-    "Python tests.pytest for test_pet_manage.TestPetClinic.test_owner.executor": "Run",
-    "Python tests.pytest for test_pet_manage.TestPetClinic.test_search_all.executor": "Run",
-    "Python tests.pytest for test_pytest_raise.test_case1.executor": "Run",
-    "Python tests.pytest for test_pytest_raise.test_case2.executor": "Run",
-    "Python tests.pytest for test_qiyeweix.TestDefaultSuite.executor": "Run",
-    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.executor": "Run",
-    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_create_department.executor": "Run",
-    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_delete_department.executor": "Run",
-    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_get_department_list.executor": "Run",
-    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_get_token.executor": "Run",
-    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_get_token2.executor": "Run",
-    "Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_update_department.executor": "Run",
-    "Python tests.pytest for test_spring_petclinic.TestPetClinic.test_city.executor": "Run",
-    "Python tests.pytest for test_spring_petclinic.TestPetClinic.test_not_owner.executor": "Run",
-    "Python tests.pytest for test_spring_petclinic.TestPetClinic.test_owner.executor": "Run",
-    "Python tests.pytest for test_spring_petclinic.TestPetClinic.test_search_all.executor": "Run",
-    "Python tests.pytest for test_student_manage.TestStudent.executor": "Run",
-    "Python tests.pytest for test_student_manage.TestStudent.test_add.executor": "Run",
-    "Python tests.pytest for test_student_manage.TestStudent.test_delete_id.executor": "Run",
-    "Python tests.pytest for test_student_manage.TestStudent.test_delete_name.executor": "Run",
-    "Python tests.pytest for test_student_manage.TestStudent.test_query_id.executor": "Run",
-    "Python tests.pytest for test_student_manage.TestStudent.test_query_name.executor": "Run",
-    "Python tests.pytest for test_student_manage.TestStudent.test_stu_info.executor": "Run",
-    "Python tests.pytest for test_student_manage.TestStudent.test_update.executor": "Run",
-    "Python tests.pytest for test_student_management_system.TestStudentSystem.test_add_score.executor": "Run",
-    "Python tests.pytest for test_student_management_system.TestStudentSystem.test_average_school.executor": "Run",
-    "Python tests.pytest for test_student_management_system.TestStudentSystem.test_cal_average.executor": "Run",
-    "Python tests.pytest for test_student_management_system.TestStudentSystem.test_invalid_score.executor": "Run",
-    "Python tests.pytest for test_student_management_system.TestStudentSystem.test_invalid_score.test_invalid_score.executor": "Run",
-    "Python tests.pytest for test_student_system.TestStudent.test_add.executor": "Run",
-    "Python tests.pytest for test_student_system.TestStudent.test_delete_name.executor": "Run",
-    "Python tests.pytest for test_student_system.TestStudent.test_query_id.executor": "Run",
-    "Python tests.pytest for test_weather.TestWeather.executor": "Run",
-    "Python tests.pytest for test_weather.TestWeather.test_current_weather.executor": "Run",
-    "Python tests.pytest for test_weather.TestWeather.test_history_weather.executor": "Run",
-    "Python tests.pytest for test_weather.TestWeather.test_yaml.executor": "Run",
-    "Python tests.pytest for test_weather_fixture.TestWeather.test_show_weather.executor": "Run",
-    "Python tests.pytest for test_xueqiu.TestAppium.test_xueqiu.executor": "Run",
-    "Python tests.pytest for test_xueqiu.TestXueqiu.test_xueqiu.executor": "Run",
-    "Python tests.pytest for test_xueqiu_record.TestAppium.executor": "Run",
-    "Python tests.pytest for test_xueqiu_record.TestAppium.test_xueqiu.executor": "Run",
-    "Python tests.pytest for test_xueqiu_search.TestXueqiu.test_auto_select.executor": "Run",
-    "Python tests.pytest for test_xueqiu_zixuan.TestAppium.test_xueqiu_zixuan.executor": "Run",
-    "Python tests.pytest in app.py.executor": "Run",
-    "Python tests.pytest in calculator_test.py.executor": "Run",
-    "Python tests.pytest in ceshiren_demo1.py.executor": "Run",
-    "Python tests.pytest in prompt_send_keys.py.executor": "Run",
-    "Python tests.pytest in pytest_tempure.py.executor": "Run",
-    "Python tests.pytest in requests_method_demo.py.executor": "Run",
-    "Python tests.pytest in temperaure_test.py.executor": "Run",
-    "Python tests.pytest in test_APIDemos_swipe.py.executor": "Run",
-    "Python tests.pytest in test_app.py.executor": "Run",
-    "Python tests.pytest in test_bingdemo.py.executor": "Run",
-    "Python tests.pytest in test_bingdemo2.py.executor": "Run",
-    "Python tests.pytest in test_ceshirensearch.py.executor": "Run",
-    "Python tests.pytest in test_debugger_address.py.executor": "Run",
-    "Python tests.pytest in test_e_commerce.py.executor": "Run",
-    "Python tests.pytest in test_inventory.py.executor": "Run",
-    "Python tests.pytest in test_litemall.py.executor": "Run",
-    "Python tests.pytest in test_method_demo.py.executor": "Run",
-    "Python tests.pytest in test_qiyeweix.py.executor": "Run",
-    "Python tests.pytest in test_qiyeweixin.py.executor": "Run",
-    "Python tests.pytest in test_student_manage.py.executor": "Run",
-    "Python tests.pytest in test_student_management_system.py.executor": "Run",
-    "Python tests.pytest in test_student_system.py.executor": "Run",
-    "Python tests.pytest in test_weather.py.executor": "Run",
-    "Python.13.executor": "Run",
-    "Python.14.executor": "Run",
-    "Python.ClosuresDecorators.executor": "Run",
-    "Python.E_commerce_shopping_cart.executor": "Run",
-    "Python.Fibonacci (1).executor": "Run",
-    "Python.a_example (1).executor": "Run",
-    "Python.a_example.executor": "Run",
-    "Python.a_file.executor": "Run",
-    "Python.an_example (1).executor": "Run",
-    "Python.animal_class.executor": "Run",
-    "Python.app (1).executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.app1.executor": "Run",
-    "Python.app2.executor": "Run",
-    "Python.app_API.executor": "Run",
-    "Python.area.executor": "Run",
-    "Python.bank_system.executor": "Run",
-    "Python.binary_rearch.executor": "Run",
-    "Python.binary_search.executor": "Run",
-    "Python.blog.executor": "Run",
-    "Python.blog_jinja.executor": "Run",
-    "Python.blog_system.executor": "Run",
-    "Python.book.executor": "Run",
-    "Python.book_recommend_system.executor": "Run",
-    "Python.bubble_sort (1).executor": "Debug",
-    "Python.bubble_sort.executor": "Run",
-    "Python.children_father.executor": "Run",
-    "Python.class_demo.executor": "Run",
-    "Python.cli_openai.executor": "Run",
-    "Python.computer.executor": "Run",
-    "Python.course.executor": "Run",
-    "Python.course_manage.executor": "Run",
-    "Python.course_manage_1.executor": "Run",
-    "Python.day_1.executor": "Debug",
-    "Python.day_1_copy.executor": "Run",
-    "Python.day_1_dict.executor": "Run",
-    "Python.day_1_for_in.executor": "Run",
-    "Python.day_1_goods_info.executor": "Run",
-    "Python.day_1_group_score.executor": "Run",
-    "Python.day_1_kwargs.executor": "Run",
-    "Python.day_1_library_manage.executor": "Run",
-    "Python.day_1_log_in.executor": "Run",
-    "Python.day_1_time.executor": "Run",
-    "Python.debug.executor": "Debug",
-    "Python.derivation.executor": "Run",
-    "Python.dog_cat.executor": "Run",
-    "Python.ecommerce.executor": "Run",
-    "Python.employee_management.executor": "Run",
-    "Python.employee_salary.executor": "Run",
-    "Python.encapsulation_1.executor": "Run",
-    "Python.exam_11.executor": "Run",
-    "Python.exam_12.executor": "Run",
-    "Python.exam_13.executor": "Run",
-    "Python.explicit_wait.executor": "Run",
-    "Python.father_chirldren.executor": "Run",
-    "Python.fifth.executor": "Run",
-    "Python.file_manage (1).executor": "Run",
-    "Python.file_manage.executor": "Run",
-    "Python.first_app.executor": "Run",
-    "Python.fourth.executor": "Run",
-    "Python.func_count.executor": "Run",
-    "Python.good_info.executor": "Run",
-    "Python.hero.executor": "Run",
-    "Python.hero_fight.executor": "Run",
-    "Python.home_furniture.executor": "Run",
-    "Python.inventory_manage.executor": "Run",
-    "Python.inventory_system.executor": "Run",
-    "Python.jinja2.executor": "Run",
-    "Python.json.executor": "Run",
-    "Python.json_flask.executor": "Run",
-    "Python.json_html.executor": "Run",
-    "Python.json_use (1).executor": "Run",
-    "Python.json_use.executor": "Run",
-    "Python.library.executor": "Run",
-    "Python.library_manage.executor": "Run",
-    "Python.log_in.executor": "Run",
-    "Python.login_register.executor": "Run",
-    "Python.login_register_blueprint.executor": "Run",
-    "Python.main (1).executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.method_demo.executor": "Run",
-    "Python.online_course.executor": "Run",
-    "Python.online_meal (1).executor": "Run",
-    "Python.open_dir.executor": "Run",
-    "Python.openai_cli.executor": "Run",
-    "Python.openai_use.executor": "Run",
-    "Python.orderlines.executor": "Run",
-    "Python.payment.executor": "Run",
-    "Python.person.executor": "Run",
-    "Python.play_game.executor": "Run",
-    "Python.polymorphic.executor": "Run",
-    "Python.product_inventory.executor": "Run",
-    "Python.qiyeweix.executor": "Run",
-    "Python.r_manmgement.executor": "Run",
-    "Python.random_exception.executor": "Run",
-    "Python.rearch_different.executor": "Run",
-    "Python.recursion_fibonacci.executor": "Run",
-    "Python.recursion_string.executor": "Debug",
-    "Python.recursion_sum.executor": "Debug",
-    "Python.regular_expression.executor": "Run",
-    "Python.running_weight_loss.executor": "Run",
-    "Python.select_sort.executor": "Run",
-    "Python.selenium_verify.executor": "Run",
-    "Python.shopping (1).executor": "Run",
-    "Python.shopping.executor": "Debug",
-    "Python.sort_output.executor": "Run",
-    "Python.static_css.executor": "Run",
-    "Python.student_manage_system.executor": "Run",
-    "Python.student_system (1).executor": "Run",
-    "Python.student_system.executor": "Run",
-    "Python.sys_module.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test_05.executor": "Run",
-    "Python.test_07.executor": "Run",
-    "Python.test_example.executor": "Run",
-    "Python.time_counter.executor": "Run",
-    "Python.url_redirect.executor": "Run",
-    "Python.utils.executor": "Run",
-    "Python.variableType.executor": "Run",
-    "Python.weather_forecast.executor": "Run",
-    "Python.weworks.executor": "Run",
-    "Python.work_01.executor": "Run",
-    "Python.work_02.executor": "Run",
-    "Python.work_03.executor": "Run",
-    "Python.work_04.executor": "Run",
-    "Python.work_05.executor": "Run",
-    "Python.work_08.executor": "Run",
-    "Python.xmind_csv.executor": "Run",
-    "Python.xueqiu_app.executor": "Run",
-    "Python.yaml_use.executor": "Run",
-    "Python.zoo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "hogwarts/master",
-    "last_opened_file_path": "D:/git-pycharm/python_learn/web_auto_test2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.Python tests in hero.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_hero.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for Interactive_control.TestInteractions.test_interaction_demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for app.TestAppium.test_appium.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for calculator_test.TestCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for calculator_test.TestCalculator.test_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for calculator_test.Test_Calculator.test_divide.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for calculator_test.Test_Calculator.test_multiply.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for calculator_test.test_d.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for calculator_test.test_m.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for calculator_test.test_s.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for ceshiren_demo1.TestHogwartsdemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for css_ceshiren.TestCss.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for css_ceshiren.TestCss.test_css.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for prompt_send_keys.test_confirm.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for pytest_assert.test_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for pytest_assert.test_assert.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for qiyeweixin_cookie.TestCookieLogin.test_add_cookie.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for qiyeweixin_cookie.TestCookieLogin.test_get_cookies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for requests_method_demo.test_assert_json.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for requests_method_demo.test_assert_jsonpath.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for requests_method_demo.test_get.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for requests_method_demo.test_get_demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for requests_method_demo.test_get_params.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for requests_method_demo.test_json.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for requests_method_demo.test_send_headers.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for temperaure_test.test_temperature.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_APIDemos_swipe.TestAppium.test_demos_swipe.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_ERP.TestERP.test_add_cookies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_ERP.TestERP.test_add_order.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_ERP.TestERP.test_get_cookies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_ERP1.TestERP.test_add_order.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_ERP_flow.TestERP.test_add_order.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_app.TestAppRedio.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_app.TestAppium.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_app.TestAppium.test_appium.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_baidusearch.TestBaidusearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_bankaccount.TestBankAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_bankaccount.TestBankAccount.test_deposit.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_bankaccount.TestBankAccount.test_withdraw.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_bingdemo.TestBingdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_bingdemo.TestBingdemo.test_bingdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_ceshirensearch.TestCeshirenSearch.test_ceshiren_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_contects.TestContacts.test_add_save.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_contects.TestContects.test_delete.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_debugger_address.TestDefaultSuite.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_debugger_address.TestDefaultSuite.test_add_weixin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_debugger_address.TestDefaultSuite.test_get_cookies.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_department.TestDepartment.test_check.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_department.TestDepartment.test_create.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_department.TestDepartment.test_delete.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_department.TestDepartment.test_update.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_e_commerce.TestShoppingCart.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_e_commerce.TestShoppingCart.test_add_good.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_e_commerce.TestShoppingCart.test_del_good.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_e_commerce.TestShoppingCart.test_goods_info.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_e_commerce.TestShoppingCart.test_settle_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_get_qiyeweixin_token.TestQiYeWeiXin.test_get_token2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_inventory.TestInventory.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_inventory.TestInventory.test_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_inventory.TestInventory.test_add_order.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_inventory.TestInventory.test_add_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_inventory.TestInventory.test_check_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_inventory.TestInventory.test_flow.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_jsonpath.test_get_jsonpath.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_jsonpath.test_get_jsonpath2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_litemall.TestCss.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_litemall.TestCss.test_css.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_litemall.TestLiteMall.test_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_litemall.TestLiteMall.test_delete_good.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_litemall.TestLiteMall.test_good_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_litemall.TestLiteMall.test_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_litemall.TestLitemall.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_litemall.TestLitemall.test_add_good.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_litemall.TestPetClinic.test_city.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_litemall.TestPetClinic.test_not_owner.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_litemall.TestPetClinic.test_owner.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_litemall.TestPetClinic.test_search_all.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_login.TestUserAuth.test_change_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_openai.test_openai.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_pet_manage.TestPetClinic.test_not_owner.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_pet_manage.TestPetClinic.test_owner.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_pet_manage.TestPetClinic.test_search_all.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_pytest_raise.test_case1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_pytest_raise.test_case2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_qiyeweix.TestDefaultSuite.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_create_department.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_delete_department.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_get_department_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_get_token.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_get_token2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_qiyeweixin.TestQiYeWeiXin.test_update_department.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_spring_petclinic.TestPetClinic.test_city.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_spring_petclinic.TestPetClinic.test_not_owner.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_spring_petclinic.TestPetClinic.test_owner.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_spring_petclinic.TestPetClinic.test_search_all.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_manage.TestStudent.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_manage.TestStudent.test_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_manage.TestStudent.test_delete_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_manage.TestStudent.test_delete_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_manage.TestStudent.test_query_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_manage.TestStudent.test_query_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_manage.TestStudent.test_stu_info.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_manage.TestStudent.test_update.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_management_system.TestStudentSystem.test_add_score.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_management_system.TestStudentSystem.test_average_school.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_management_system.TestStudentSystem.test_cal_average.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_management_system.TestStudentSystem.test_invalid_score.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_management_system.TestStudentSystem.test_invalid_score.test_invalid_score.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_system.TestStudent.test_add.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_system.TestStudent.test_delete_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_student_system.TestStudent.test_query_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_weather.TestWeather.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_weather.TestWeather.test_current_weather.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_weather.TestWeather.test_history_weather.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_weather.TestWeather.test_yaml.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_weather_fixture.TestWeather.test_show_weather.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_xueqiu.TestAppium.test_xueqiu.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_xueqiu.TestXueqiu.test_xueqiu.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_xueqiu_record.TestAppium.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_xueqiu_record.TestAppium.test_xueqiu.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_xueqiu_search.TestXueqiu.test_auto_select.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_xueqiu_zixuan.TestAppium.test_xueqiu_zixuan.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in app.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in calculator_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in ceshiren_demo1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in prompt_send_keys.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in pytest_tempure.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in requests_method_demo.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in temperaure_test.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_APIDemos_swipe.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_ERP.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_app.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_bingdemo.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_bingdemo2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_ceshirensearch.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_debugger_address.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_e_commerce.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_inventory.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_litemall.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_method_demo.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_qiyeweix.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_qiyeweixin.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_student_manage.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_student_management_system.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_student_system.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_weather.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ClosuresDecorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.E_commerce_shopping_cart.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fibonacci (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.a_example (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.a_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.a_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.an_example (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.animal_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app_API.executor&quot;: &quot;Run&quot;,
+    &quot;Python.area.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binary_rearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binary_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blog.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blog_jinja.executor&quot;: &quot;Run&quot;,
+    &quot;Python.blog_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.book.executor&quot;: &quot;Run&quot;,
+    &quot;Python.book_recommend_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bubble_sort (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.bubble_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.children_father.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cli_openai.executor&quot;: &quot;Run&quot;,
+    &quot;Python.computer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.course.executor&quot;: &quot;Run&quot;,
+    &quot;Python.course_manage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.course_manage_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.day_1_copy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_1_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_1_for_in.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_1_goods_info.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_1_group_score.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_1_kwargs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_1_library_manage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_1_log_in.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_1_time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.debug.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.derivation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dog_cat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ecommerce.executor&quot;: &quot;Run&quot;,
+    &quot;Python.employee_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.employee_salary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulation_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exam22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exam23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exam24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exam25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exam_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exam_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exam_13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.explicit_wait.executor&quot;: &quot;Run&quot;,
+    &quot;Python.father_chirldren.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fifth.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_manage (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_manage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.first_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fourth.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.good_info.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hero_fight.executor&quot;: &quot;Run&quot;,
+    &quot;Python.home_furniture.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inventory_manage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inventory_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jinja2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.json.executor&quot;: &quot;Run&quot;,
+    &quot;Python.json_flask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.json_html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.json_use (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.json_use.executor&quot;: &quot;Run&quot;,
+    &quot;Python.library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.library_manage.executor&quot;: &quot;Run&quot;,
+    &quot;Python.log_in.executor&quot;: &quot;Run&quot;,
+    &quot;Python.login_register.executor&quot;: &quot;Run&quot;,
+    &quot;Python.login_register_blueprint.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.method_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.online_course.executor&quot;: &quot;Run&quot;,
+    &quot;Python.online_meal (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.open_dir.executor&quot;: &quot;Run&quot;,
+    &quot;Python.openai_cli.executor&quot;: &quot;Run&quot;,
+    &quot;Python.openai_use.executor&quot;: &quot;Run&quot;,
+    &quot;Python.orderlines.executor&quot;: &quot;Run&quot;,
+    &quot;Python.payment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.person.executor&quot;: &quot;Run&quot;,
+    &quot;Python.play_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polymorphic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.product_inventory.executor&quot;: &quot;Run&quot;,
+    &quot;Python.qiyeweix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.r_manmgement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rearch_different.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recursion_fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recursion_string.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.recursion_sum.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.regular_expression.executor&quot;: &quot;Run&quot;,
+    &quot;Python.running_weight_loss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.select_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selenium_verify.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shopping (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.shopping.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sort_output.executor&quot;: &quot;Run&quot;,
+    &quot;Python.static_css.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_manage_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_system (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sys_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.time_counter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.url_redirect.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utils.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variableType.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weather_forecast.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weworks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.work_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.work_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.work_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.work_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.work_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.work_08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xmind-csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xmind_csv.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xueqiu_app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.yaml_use.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zoo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hogwarts/master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/git-pycharm/python_learn/web_auto_ERP_test/po/data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git-pycharm\python_learn\web_auto_ERP_test\po\data" />
+      <recent name="D:\git-pycharm\python_learn\web_auto_ERP_test\po\utils" />
       <recent name="D:\git-pycharm\python_learn\web_auto_test2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -334,8 +394,8 @@
       <recent name="D:\git-pycharm\python_learn\week9_day2\tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_department.TestDepartment.test_delete">
-    <configuration name="weworks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test_ERP_flow.TestERP.test_add_order">
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -344,11 +404,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_ao/apis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12day3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface_ao/apis/weworks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12day3/hello.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,81 +448,81 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_department.TestDepartment.test_check" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_ERP.TestERP.test_add_order" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_ao/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12day3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_department.TestDepartment.test_check&quot;" />
+      <option name="_new_target" value="&quot;test_ERP.TestERP.test_add_order&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_department.TestDepartment.test_create" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_ERP.TestERP.test_get_cookies" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_ao/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12day3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_department.TestDepartment.test_create&quot;" />
+      <option name="_new_target" value="&quot;test_ERP.TestERP.test_get_cookies&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_department.TestDepartment.test_delete" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_ERP_flow.TestERP.test_add_order" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_ao/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12day3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_department.TestDepartment.test_delete&quot;" />
+      <option name="_new_target" value="&quot;test_ERP_flow.TestERP.test_add_order&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_department.TestDepartment.test_update" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for week12day3.test_ERP_flow.TestERP.test_add_order" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_ao/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12day3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_department.TestDepartment.test_update&quot;" />
+      <option name="_new_target" value="&quot;week12day3.test_ERP_flow.TestERP.test_add_order&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_department.TestDepartment.test_delete" />
-        <item itemvalue="Python tests.pytest for test_department.TestDepartment.test_check" />
-        <item itemvalue="Python tests.pytest for test_department.TestDepartment.test_update" />
-        <item itemvalue="Python tests.pytest for test_department.TestDepartment.test_create" />
-        <item itemvalue="Python.weworks" />
+        <item itemvalue="Python tests.pytest for test_ERP_flow.TestERP.test_add_order" />
+        <item itemvalue="Python tests.pytest for week12day3.test_ERP_flow.TestERP.test_add_order" />
+        <item itemvalue="Python tests.pytest for test_ERP.TestERP.test_add_order" />
+        <item itemvalue="Python tests.pytest for test_ERP.TestERP.test_get_cookies" />
+        <item itemvalue="Python.hello" />
       </list>
     </recent_temporary>
   </component>

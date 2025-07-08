@@ -1,5 +1,6 @@
 import time
 
+from flask import Response
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -26,3 +27,8 @@ time.sleep(3)
 print(a1.switch_to.alert.text)
 # 点击弹窗确定按钮，弹窗自动小时
 a1.switch_to.alert.accept()
+
+
+def make_response(*args):
+    response = Response(*args)
+    return response

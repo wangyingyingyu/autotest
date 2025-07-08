@@ -1,0 +1,31 @@
+create:
+  - - name: "广州研发中心"
+      name_en: "GZYFZX"
+      parentid: 1
+      order: 1
+      id: 2
+    - 0
+  - - "name": ""
+      "name_en": "JISHU2"
+      "parentid": 1
+      "order": 3
+      "id": 3
+    - 40058
+  - - "name": "南京研发中心"
+      "name_en": "NJYFZX"
+      "parentid":
+      "order": 3
+      "id": 3
+    - 60004
+  - - "name": "北京研发中心"
+      "name_en": "BJYFZX"
+      "parentid": 1
+      "order": 2
+      "id": 3
+    - 0
+  - - "name": "上海研发中心"
+      "name_en": "SHYFZX"
+      "parentid": 1
+      "order": 1
+      "id": 4
+    - 0

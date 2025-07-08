@@ -8,10 +8,10 @@ class HomePage(LiteMall):
 
     def click_good_manage(self):
         self.find_click(*self._GOOD_MANAGE)
-        logging.info("点击商品管理")
+
 
         self.find_click(*self._GOOD_LIST)
-        logging.info("点击商品列表")
+
 
         return GoodList(self._driver)
 

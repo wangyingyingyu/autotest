@@ -11,11 +11,6 @@ class Login(LiteMall):
 
     def login(self):
         self._driver.get("https://litemall.hogwarts.ceshiren.com/")
-        logging.info("打开litemall网页")
-        self.get_picture_source()
         self.find_click(*self._CLICK_LOGIN)
-        logging.info("点击登录")
-        self.get_picture_source()
-
         return HomePage(self._driver)
     #   Homepage是Homepage的实例对象
